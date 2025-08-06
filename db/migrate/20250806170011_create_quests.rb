@@ -8,5 +8,7 @@ class CreateQuests < ActiveRecord::Migration[7.2]
 
       t.timestamps
     end
+
+    add_index :quests, :logged_id, unique: true
   end
 end
