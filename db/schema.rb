@@ -26,7 +26,7 @@ ActiveRecord::Schema[7.2].define(version: 2025_08_06_170106) do
   create_table "player_quests", force: :cascade do |t|
     t.bigint "player_id", null: false
     t.bigint "quest_id", null: false
-    t.string "status"
+    t.string "status", default: "", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["player_id"], name: "index_player_quests_on_player_id"
@@ -53,6 +53,7 @@ ActiveRecord::Schema[7.2].define(version: 2025_08_06_170106) do
     t.integer "gold", default: 0, null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["logged_id"], name: "index_quests_on_logged_id", unique: true
   end
 
   add_foreign_key "player_quests", "players"
