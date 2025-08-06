@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.2].define(version: 2025_08_06_004211) do
+ActiveRecord::Schema[7.2].define(version: 2025_08_06_170106) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -21,6 +21,16 @@ ActiveRecord::Schema[7.2].define(version: 2025_08_06_004211) do
     t.json "data"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "player_quests", force: :cascade do |t|
+    t.bigint "player_id", null: false
+    t.bigint "quest_id", null: false
+    t.string "status"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["player_id"], name: "index_player_quests_on_player_id"
+    t.index ["quest_id"], name: "index_player_quests_on_quest_id"
   end
 
   create_table "players", force: :cascade do |t|
@@ -35,4 +45,16 @@ ActiveRecord::Schema[7.2].define(version: 2025_08_06_004211) do
     t.integer "score", default: 0, null: false
     t.index ["logged_id"], name: "index_players_on_logged_id", unique: true
   end
+
+  create_table "quests", force: :cascade do |t|
+    t.string "logged_id", null: false
+    t.string "name", default: "", null: false
+    t.integer "xp", default: 0, null: false
+    t.integer "gold", default: 0, null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  add_foreign_key "player_quests", "players"
+  add_foreign_key "player_quests", "quests"
 end
