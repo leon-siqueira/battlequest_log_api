@@ -2,6 +2,9 @@ class Player < ApplicationRecord
   has_many :player_quests, dependent: :destroy
   has_many :quests, through: :player_quests
 
+  has_many :player_items, dependent: :destroy
+  has_many :items, through: :player_items
+
   validates :logged_id, presence: true, format: { with: /\Ap\d+\z/, message: "must be in the format \"p<numeric_id>\"" }
   validates :gold, :xp, :hp, :kills, :deaths, presence: true, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
 
