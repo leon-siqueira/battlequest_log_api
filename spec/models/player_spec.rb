@@ -25,4 +25,20 @@ RSpec.describe Player, type: :model do
       expect(player.id).to eq(123)
     end
   end
+
+  describe 'methods' do
+    describe '#kdr' do
+      it 'returns the correct kill/death ratio without running into division by zero exceptions' do
+        player.kills = 10
+        player.deaths = 2
+        expect(player.kdr).to eq(5.0)
+
+        player.deaths = 0
+        expect(player.kdr).to eq(10.0)
+
+        player.kills = 0
+        expect(player.kdr).to eq(0.0)
+      end
+    end
+  end
 end
