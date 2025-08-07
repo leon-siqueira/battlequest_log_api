@@ -1,16 +1,7 @@
-class Log::Import
+class LoggedEvent::Import < BaseService
   def initialize(**kwargs)
     # Rails.root.join("public", "example_log", "all_event_kinds.txt")
     @filepath = kwargs[:filepath]
-    @events = {}
-  end
-
-  def self.call(**kwargs)
-    new(**kwargs).call
-  end
-
-  def call
-    run
   end
 
   private
@@ -19,15 +10,14 @@ class Log::Import
     File.open(@filepath, "r") do |file|
       while (line = file.gets)
         splitted_line = line.strip.split(" ", 5)
-        event = {
+        event_hash = {
             logged_at: "#{splitted_line[0]} #{splitted_line[1]}".to_datetime,
             context: splitted_line[2][1..-2],
             name: splitted_line[3],
             data: parse_key_value_pairs(splitted_line[4])
         }
 
-        LoggedEvent.create!(event)
-        # TODO: handle events i.e.: Reward player upon quest completion, PvP, loot, etc.
+        LoggedEvent::Handler.call(event_hash:) if LoggedEvent.create(event_hash)
       end
     end
   end
