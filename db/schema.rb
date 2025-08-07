@@ -10,9 +10,16 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.2].define(version: 2025_08_06_170106) do
+ActiveRecord::Schema[7.2].define(version: 2025_08_06_233452) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "items", force: :cascade do |t|
+    t.string "name", default: "", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["name"], name: "index_items_on_name", unique: true
+  end
 
   create_table "logged_events", force: :cascade do |t|
     t.datetime "logged_at", precision: nil
@@ -21,6 +28,16 @@ ActiveRecord::Schema[7.2].define(version: 2025_08_06_170106) do
     t.json "data"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "player_items", force: :cascade do |t|
+    t.bigint "player_id", null: false
+    t.bigint "item_id", null: false
+    t.integer "quantity", default: 1, null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["item_id"], name: "index_player_items_on_item_id"
+    t.index ["player_id"], name: "index_player_items_on_player_id"
   end
 
   create_table "player_quests", force: :cascade do |t|
@@ -56,6 +73,8 @@ ActiveRecord::Schema[7.2].define(version: 2025_08_06_170106) do
     t.index ["logged_id"], name: "index_quests_on_logged_id", unique: true
   end
 
+  add_foreign_key "player_items", "items"
+  add_foreign_key "player_items", "players"
   add_foreign_key "player_quests", "players"
   add_foreign_key "player_quests", "quests"
 end
