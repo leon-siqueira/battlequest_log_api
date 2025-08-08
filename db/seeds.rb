@@ -1,9 +1,29 @@
-# This file should ensure the existence of records required to run the application in every environment (production,
-# development, test). The code here should be idempotent so that it can be executed at any point in every environment.
-# The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
-#
-# Example:
-#
-#   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
-#     MovieGenre.find_or_create_by!(name: genre_name)
-#   end
+files = {
+  1 => "1_event_of_each_kind.txt",
+  2 => "10_events_of_each_kind.txt",
+  3 => "100_events_of_each_kind.txt",
+  4 => "game_log_large.txt",
+}
+
+file = false
+
+while !file
+  system "clear"
+  puts "Which file do you want to import?"
+  files.each do |key, value|
+    puts "#{key} - #{value}"
+  end
+
+  input = gets.chomp.to_i
+
+  if files.key?(input)
+    file = files[input]
+  else
+    system "clear"
+    puts "Invalid option. Please try again."
+    sleep 2
+  end
+end
+system "clear"
+
+LoggedEvent::Import.call(filepath: Rails.root.join("public", "example_log", file), puts: true)
