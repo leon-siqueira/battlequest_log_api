@@ -1,12 +1,13 @@
 class LoggedEvent::Import < BaseService
   def initialize(**kwargs)
-    # Rails.root.join("public", "example_log", "all_event_kinds.txt")
     @filepath = kwargs[:filepath]
+    @puts = kwargs[:puts] || false
   end
 
   private
 
   def run
+    current_line = 1
     File.open(@filepath, "r") do |file|
       while (line = file.gets)
         splitted_line = line.strip.split(" ", 5)
@@ -17,7 +18,14 @@ class LoggedEvent::Import < BaseService
             data: parse_key_value_pairs(splitted_line[4])
         }
 
-        LoggedEvent::Handler.call(event_hash:) if LoggedEvent.create(event_hash)
+        begin
+          LoggedEvent::Handler.call(event_hash:) if LoggedEvent.create(event_hash)
+          puts "Imported event from line #{current_line}" if @puts
+        rescue NotImplementedError => e
+        rescue StandardError => e
+          Rails.logger.error("Failed to import event from line #{current_line}: #{e.message}")
+        end
+        current_line += 1
       end
     end
   end

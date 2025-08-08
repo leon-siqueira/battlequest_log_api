@@ -1,0 +1,1400 @@
+2025-08-04 14:00:27 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p2 xp=4752 gold=483
+2025-08-04 14:00:27 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p2 xp=4752 gold=483
+2025-08-04 14:00:53 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p3 xp=3955 gold=801
+2025-08-04 14:00:54 [CHAT] MESSAGE player_id=p2 message="Respawning now"
+2025-08-04 14:00:54 [CHAT] MESSAGE player_id=p2 message="Respawning now"
+2025-08-04 14:01:14 [CHAT] MESSAGE player_id=p1 message=GG!
+2025-08-04 14:01:44 [CHAT] MESSAGE player_id=p1 message="Need potions"
+2025-08-04 14:02:06 [GAME] QUEST_START player_id=p2 quest_id=q285 name="Quest q285"
+2025-08-04 14:02:06 [GAME] QUEST_START player_id=p2 quest_id=q285 name="Quest q285"
+2025-08-04 14:02:14 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 14:02:14 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 14:02:17 [COMBAT] DEATH victim_id=p3 killer_id=p1 method=sword
+2025-08-04 14:02:17 [COMBAT] DEATH victim_id=p3 killer_id=p1 method=sword
+2025-08-04 14:02:19 [GAME] ZONE_ENTER player_id=p2 zone=AncientRuins
+2025-08-04 14:02:19 [GAME] ZONE_ENTER player_id=p2 zone=AncientRuins
+2025-08-04 14:02:20 [CHAT] MESSAGE player_id=p1 message="Boss is spawning soon!"
+2025-08-04 14:02:56 [CHAT] MESSAGE player_id=p4 message="Boss is spawning soon!"
+2025-08-04 14:03:20 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=ShadowDragon damage=614
+2025-08-04 14:03:20 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=ShadowDragon damage=614
+2025-08-04 14:03:39 [CHAT] MESSAGE player_id=p3 message="Anyone need help?"
+2025-08-04 14:04:00 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 14:04:25 [CHAT] MESSAGE player_id=p1 message="Going to the cave"
+2025-08-04 14:04:52 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p2 xp=4187 gold=862
+2025-08-04 14:04:57 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 14:05:19 [CHAT] MESSAGE player_id=p1 message="Respawning now"
+2025-08-04 14:05:31 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 14:05:59 [INFO] PLAYER_JOIN id=p6 name=Frank level=39 zone=MysticLake
+2025-08-04 14:05:59 [INFO] PLAYER_JOIN id=p6 name=Frank level=39 zone=MysticLake
+2025-08-04 14:06:14 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 14:06:45 [INFO] PLAYER_JOIN id=p6 name=Frank level=21 zone=GreenFields
+2025-08-04 14:06:46 [GAME] PLAYER_RESPAWN player_id=p6 location=(101,67) hp=100
+2025-08-04 14:06:46 [GAME] PLAYER_RESPAWN player_id=p6 location=(101,67) hp=100
+2025-08-04 14:06:52 [CHAT] MESSAGE player_id=p6 message="Team up?"
+2025-08-04 14:06:57 [COMBAT] DEATH victim_id=p1 killer_id=p3 method=sword
+2025-08-04 14:07:24 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p4 xp=1619 gold=679
+2025-08-04 14:07:28 [GAME] QUEST_START player_id=p1 quest_id=q593 name="Quest q593"
+2025-08-04 14:07:53 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 14:08:14 [INFO] PLAYER_JOIN id=p6 name=Frank level=33 zone=MysticLake
+2025-08-04 14:08:15 [GAME] ZONE_EXIT player_id=p3 zone=DarkCave
+2025-08-04 14:08:15 [GAME] ZONE_EXIT player_id=p3 zone=DarkCave
+2025-08-04 14:08:31 [CHAT] MESSAGE player_id=p6 message="Need potions"
+2025-08-04 14:08:45 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=LichQueen damage=423
+2025-08-04 14:09:16 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:09:32 [CHAT] MESSAGE player_id=p5 message="Boss is spawning soon!"
+2025-08-04 14:09:45 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q999 xp=222 gold=77
+2025-08-04 14:09:45 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q999 xp=222 gold=77
+2025-08-04 14:09:52 [GAME] ITEM_PICKUP player_id=p5 item=health_potion qty=9 location=(90,95)
+2025-08-04 14:09:52 [GAME] ITEM_PICKUP player_id=p5 item=health_potion qty=9 location=(90,95)
+2025-08-04 14:10:21 [CHAT] MESSAGE player_id=p1 message="Watch out for traps"
+2025-08-04 14:10:35 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 14:10:57 [GAME] PLAYER_RESPAWN player_id=p2 location=(66,135) hp=100
+2025-08-04 14:11:15 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 14:11:47 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 14:12:13 [CHAT] MESSAGE player_id=p2 message="Headed to MysticLake"
+2025-08-04 14:13:02 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 14:13:10 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 14:13:30 [CHAT] MESSAGE player_id=p3 message="Respawning now"
+2025-08-04 14:13:45 [CHAT] MESSAGE player_id=p5 message="Going to the cave"
+2025-08-04 14:13:47 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 14:14:09 [CHAT] MESSAGE player_id=p5 message=GG!
+2025-08-04 14:14:39 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 14:14:47 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p6 xp=4504 gold=325
+2025-08-04 14:14:58 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:15:23 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:15:40 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:16:07 [GAME] ZONE_EXIT player_id=p2 zone=MysticLake
+2025-08-04 14:16:28 [GAME] QUEST_START player_id=p5 quest_id=q117 name="Quest q117"
+2025-08-04 14:16:46 [GAME] QUEST_COMPLETE player_id=p5 quest_id=q597 xp=407 gold=14
+2025-08-04 14:17:15 [CHAT] MESSAGE player_id=p1 message=GG!
+2025-08-04 14:17:53 [CHAT] MESSAGE player_id=p6 message="Team up?"
+2025-08-04 14:18:01 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 14:18:24 [CHAT] MESSAGE player_id=p2 message="Watch out for traps"
+2025-08-04 14:18:43 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 14:19:08 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 14:19:43 [INFO] PLAYER_JOIN id=p1 name=Alice level=5 zone=GreenFields
+2025-08-04 14:20:13 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=ShadowDragon damage=732
+2025-08-04 14:20:29 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=LichQueen damage=733
+2025-08-04 14:20:32 [CHAT] MESSAGE player_id=p3 message="Team up?"
+2025-08-04 14:20:42 [CHAT] MESSAGE player_id=p6 message="Watch out for traps"
+2025-08-04 14:21:01 [SYSTEM] SERVER_ANNOUNCEMENT text="Server maintenance in 10 minutes"
+2025-08-04 14:21:38 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 14:22:02 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:22:03 [CHAT] MESSAGE player_id=p6 message="Anyone need help?"
+2025-08-04 14:22:08 [INFO] PLAYER_JOIN id=p4 name=Diana level=8 zone=GreenFields
+2025-08-04 14:22:49 [CHAT] MESSAGE player_id=p4 message="Boss is spawning soon!"
+2025-08-04 14:23:17 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=LichQueen hp=5822
+2025-08-04 14:23:17 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=LichQueen hp=5822
+2025-08-04 14:23:33 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q115 xp=188 gold=91
+2025-08-04 14:24:09 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p2 xp=3494 gold=509
+2025-08-04 14:24:14 [CHAT] MESSAGE player_id=p5 message="Respawning now"
+2025-08-04 14:24:19 [GAME] SCORE player_id=p3 points=681 reason=defeated_monster
+2025-08-04 14:24:19 [GAME] SCORE player_id=p3 points=681 reason=defeated_monster
+2025-08-04 14:24:22 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=GolemKing hp=5694
+2025-08-04 14:24:35 [CHAT] MESSAGE player_id=p6 message="Team up?"
+2025-08-04 14:24:43 [CHAT] MESSAGE player_id=p4 message="Boss is spawning soon!"
+2025-08-04 14:24:50 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 14:25:15 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q965 xp=535 gold=26
+2025-08-04 14:25:18 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p6 xp=2506 gold=219
+2025-08-04 14:25:23 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 14:25:28 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:25:31 [CHAT] MESSAGE player_id=p6 message="Anyone need help?"
+2025-08-04 14:25:51 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 14:25:52 [SYSTEM] SERVER_ANNOUNCEMENT text="Server maintenance in 10 minutes"
+2025-08-04 14:26:15 [CHAT] MESSAGE player_id=p3 message="Watch out for traps"
+2025-08-04 14:27:09 [CHAT] MESSAGE player_id=p3 message="Headed to MysticLake"
+2025-08-04 14:27:29 [GAME] ZONE_ENTER player_id=p3 zone=AncientRuins
+2025-08-04 14:27:41 [INFO] PLAYER_JOIN id=p5 name=Eve level=31 zone=AncientRuins
+2025-08-04 14:27:48 [GAME] ZONE_EXIT player_id=p5 zone=GreenFields
+2025-08-04 14:28:11 [CHAT] MESSAGE player_id=p2 message="Headed to MysticLake"
+2025-08-04 14:28:14 [INFO] PLAYER_JOIN id=p5 name=Eve level=17 zone=DarkCave
+2025-08-04 14:28:41 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 14:29:03 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:29:40 [SYSTEM] SERVER_ANNOUNCEMENT text="Server maintenance in 10 minutes"
+2025-08-04 14:29:43 [GAME] ITEM_PICKUP player_id=p2 item=health_potion qty=5 location=(177,76)
+2025-08-04 14:30:12 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=ShadowDragon damage=697
+2025-08-04 14:30:41 [CHAT] MESSAGE player_id=p3 message="Headed to MysticLake"
+2025-08-04 14:31:10 [GAME] ZONE_ENTER player_id=p2 zone=MysticLake
+2025-08-04 14:31:25 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 14:31:46 [GAME] SCORE player_id=p2 points=514 reason=defeated_monster
+2025-08-04 14:32:09 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 14:32:35 [COMBAT] DEATH victim_id=p2 killer_id=p1 method=sword
+2025-08-04 14:32:44 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p3 xp=4607 gold=203
+2025-08-04 14:32:53 [GAME] ITEM_PICKUP player_id=p4 item=health_potion qty=1 location=(160,195)
+2025-08-04 14:33:22 [CHAT] MESSAGE player_id=p2 message="Anyone need help?"
+2025-08-04 14:33:51 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:34:20 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=6987
+2025-08-04 14:34:55 [GAME] SCORE player_id=p4 points=832 reason=defeated_monster
+2025-08-04 14:35:31 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q625 xp=268 gold=74
+2025-08-04 14:35:42 [CHAT] MESSAGE player_id=p2 message="Need potions"
+2025-08-04 14:36:06 [GAME] ZONE_ENTER player_id=p6 zone=DarkCave
+2025-08-04 14:36:24 [COMBAT] DEATH victim_id=p5 killer_id=p3 method=sword
+2025-08-04 14:36:35 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=ShadowDragon damage=340
+2025-08-04 14:36:47 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=ShadowDragon damage=310
+2025-08-04 14:37:12 [CHAT] MESSAGE player_id=p6 message="Headed to MysticLake"
+2025-08-04 14:37:43 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p1 xp=4978 gold=233
+2025-08-04 14:38:07 [GAME] QUEST_START player_id=p4 quest_id=q696 name="Quest q696"
+2025-08-04 14:38:33 [GAME] ZONE_ENTER player_id=p1 zone=MysticLake
+2025-08-04 14:38:47 [CHAT] MESSAGE player_id=p4 message="Watch out for traps"
+2025-08-04 14:38:57 [SYSTEM] SERVER_ANNOUNCEMENT text="Server maintenance in 10 minutes"
+2025-08-04 14:39:47 [SYSTEM] SERVER_ANNOUNCEMENT text="Server maintenance in 10 minutes"
+2025-08-04 14:40:02 [GAME] SCORE player_id=p4 points=244 reason=defeated_monster
+2025-08-04 14:40:18 [CHAT] MESSAGE player_id=p6 message="Need potions"
+2025-08-04 14:40:50 [GAME] QUEST_START player_id=p1 quest_id=q513 name="Quest q513"
+2025-08-04 14:41:16 [GAME] QUEST_START player_id=p6 quest_id=q954 name="Quest q954"
+2025-08-04 14:41:32 [CHAT] MESSAGE player_id=p6 message="Anyone need help?"
+2025-08-04 14:41:47 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p5 xp=4093 gold=293
+2025-08-04 14:42:14 [GAME] ITEM_PICKUP player_id=p6 item=mana_potion qty=1 location=(117,193)
+2025-08-04 14:42:15 [GAME] ZONE_EXIT player_id=p1 zone=DarkCave
+2025-08-04 14:42:42 [CHAT] MESSAGE player_id=p2 message="Boss is spawning soon!"
+2025-08-04 14:43:09 [CHAT] MESSAGE player_id=p3 message="Let's go!"
+2025-08-04 14:43:38 [CHAT] MESSAGE player_id=p3 message="Going to the cave"
+2025-08-04 14:43:47 [CHAT] MESSAGE player_id=p6 message="Going to the cave"
+2025-08-04 14:43:57 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:44:31 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=ShadowDragon hp=4398
+2025-08-04 14:44:49 [CHAT] MESSAGE player_id=p6 message="Team up?"
+2025-08-04 14:45:42 [GAME] SCORE player_id=p2 points=801 reason=defeated_monster
+2025-08-04 14:46:27 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q416 xp=518 gold=31
+2025-08-04 14:47:07 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 14:47:55 [GAME] QUEST_START player_id=p4 quest_id=q516 name="Quest q516"
+2025-08-04 14:48:17 [CHAT] MESSAGE player_id=p2 message="Watch out for traps"
+2025-08-04 14:48:41 [CHAT] MESSAGE player_id=p6 message="Anyone need help?"
+2025-08-04 14:48:49 [INFO] PLAYER_JOIN id=p2 name=Bob level=25 zone=GreenFields
+2025-08-04 14:49:08 [CHAT] MESSAGE player_id=p1 message="Going to the cave"
+2025-08-04 14:49:10 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 14:49:14 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q466 xp=405 gold=252
+2025-08-04 14:49:20 [COMBAT] BOSS_DAMAGE player_id=p5 boss_name=GolemKing damage=798
+2025-08-04 14:50:00 [GAME] ZONE_ENTER player_id=p5 zone=GreenFields
+2025-08-04 14:50:10 [SYSTEM] SERVER_ANNOUNCEMENT text="Server maintenance in 10 minutes"
+2025-08-04 14:50:13 [CHAT] MESSAGE player_id=p6 message="Going to the cave"
+2025-08-04 14:50:23 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=ShadowDragon hp=5424
+2025-08-04 14:51:03 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p4 xp=4091 gold=750
+2025-08-04 14:51:49 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 14:51:56 [GAME] ZONE_EXIT player_id=p4 zone=GreenFields
+2025-08-04 14:52:26 [CHAT] MESSAGE player_id=p6 message="Let's go!"
+2025-08-04 14:52:33 [CHAT] MESSAGE player_id=p5 message="Need potions"
+2025-08-04 14:52:37 [CHAT] MESSAGE player_id=p5 message="Watch out for traps"
+2025-08-04 14:52:38 [COMBAT] DEATH victim_id=p5 killer_id=p1 method=sword
+2025-08-04 14:53:14 [CHAT] MESSAGE player_id=p1 message="Headed to MysticLake"
+2025-08-04 14:53:20 [GAME] QUEST_START player_id=p2 quest_id=q830 name="Quest q830"
+2025-08-04 14:53:47 [CHAT] MESSAGE player_id=p2 message="Watch out for traps"
+2025-08-04 14:53:56 [GAME] SCORE player_id=p2 points=453 reason=defeated_monster
+2025-08-04 14:53:57 [CHAT] MESSAGE player_id=p5 message="Need potions"
+2025-08-04 14:54:28 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:54:57 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 14:54:58 [GAME] QUEST_START player_id=p4 quest_id=q763 name="Quest q763"
+2025-08-04 14:55:25 [GAME] SCORE player_id=p5 points=910 reason=defeated_monster
+2025-08-04 14:55:45 [CHAT] MESSAGE player_id=p4 message="Respawning now"
+2025-08-04 14:55:49 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 14:56:19 [GAME] PLAYER_RESPAWN player_id=p5 location=(152,106) hp=100
+2025-08-04 14:56:30 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q403 xp=478 gold=285
+2025-08-04 14:56:32 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q941 xp=597 gold=141
+2025-08-04 14:56:33 [GAME] ITEM_PICKUP player_id=p1 item=mana_potion qty=6 location=(166,137)
+2025-08-04 14:56:46 [GAME] SCORE player_id=p2 points=305 reason=defeated_monster
+2025-08-04 14:56:52 [INFO] PLAYER_JOIN id=p2 name=Bob level=3 zone=AncientRuins
+2025-08-04 14:56:58 [GAME] QUEST_START player_id=p5 quest_id=q562 name="Quest q562"
+2025-08-04 14:57:05 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 14:57:15 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q734 xp=889 gold=55
+2025-08-04 14:57:26 [COMBAT] DEATH victim_id=p6 killer_id=p1 method=sword
+2025-08-04 14:57:28 [CHAT] MESSAGE player_id=p4 message="Going to the cave"
+2025-08-04 14:57:32 [CHAT] MESSAGE player_id=p4 message="Boss is spawning soon!"
+2025-08-04 14:57:34 [CHAT] MESSAGE player_id=p4 message="Team up?"
+2025-08-04 14:57:39 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p5 xp=4534 gold=480
+2025-08-04 14:58:01 [CHAT] MESSAGE player_id=p6 message="Going to the cave"
+2025-08-04 14:58:09 [GAME] ITEM_PICKUP player_id=p5 item=dragon_scale qty=4 location=(174,141)
+2025-08-04 14:58:19 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=ShadowDragon damage=163
+2025-08-04 14:58:49 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 14:59:04 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=GolemKing hp=4655
+2025-08-04 14:59:27 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p1 xp=2525 gold=588
+2025-08-04 15:00:08 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p4 xp=4380 gold=719
+2025-08-04 15:00:23 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 15:00:42 [CHAT] MESSAGE player_id=p4 message="Respawning now"
+2025-08-04 15:00:47 [CHAT] MESSAGE player_id=p1 message="Team up?"
+2025-08-04 15:01:23 [CHAT] MESSAGE player_id=p5 message="Need potions"
+2025-08-04 15:01:51 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q318 xp=605 gold=247
+2025-08-04 15:02:10 [CHAT] MESSAGE player_id=p3 message=GG!
+2025-08-04 15:02:29 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p1 xp=4769 gold=723
+2025-08-04 15:02:47 [COMBAT] DEATH victim_id=p5 killer_id=p4 method=sword
+2025-08-04 15:03:08 [GAME] PLAYER_RESPAWN player_id=p4 location=(119,100) hp=100
+2025-08-04 15:03:26 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q718 xp=606 gold=297
+2025-08-04 15:03:30 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p2 xp=4190 gold=307
+2025-08-04 15:03:48 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 15:03:53 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 15:03:58 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 15:04:14 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=LichQueen hp=3246
+2025-08-04 15:04:20 [CHAT] MESSAGE player_id=p5 message="Need potions"
+2025-08-04 15:04:23 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 15:04:39 [INFO] PLAYER_JOIN id=p3 name=Charlie level=12 zone=GreenFields
+2025-08-04 15:05:05 [GAME] QUEST_START player_id=p6 quest_id=q507 name="Quest q507"
+2025-08-04 15:05:33 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=LichQueen hp=3129
+2025-08-04 15:05:40 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 15:05:41 [CHAT] MESSAGE player_id=p3 message=GG!
+2025-08-04 15:05:57 [GAME] SCORE player_id=p5 points=317 reason=defeated_monster
+2025-08-04 15:06:08 [GAME] ITEM_PICKUP player_id=p6 item=health_potion qty=10 location=(129,183)
+2025-08-04 15:06:36 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=ShadowDragon damage=462
+2025-08-04 15:07:02 [GAME] QUEST_START player_id=p5 quest_id=q542 name="Quest q542"
+2025-08-04 15:07:16 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 15:07:18 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p1 xp=2928 gold=785
+2025-08-04 15:07:38 [CHAT] MESSAGE player_id=p5 message="Going to the cave"
+2025-08-04 15:07:40 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=LichQueen hp=7397
+2025-08-04 15:08:13 [CHAT] MESSAGE player_id=p4 message="Let's go!"
+2025-08-04 15:08:25 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 15:08:46 [CHAT] MESSAGE player_id=p1 message="Headed to MysticLake"
+2025-08-04 15:08:47 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 15:08:57 [COMBAT] DEATH victim_id=p3 killer_id=p6 method=sword
+2025-08-04 15:09:26 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:09:36 [SYSTEM] SERVER_ANNOUNCEMENT text="Server maintenance in 10 minutes"
+2025-08-04 15:10:02 [CHAT] MESSAGE player_id=p3 message="Watch out for traps"
+2025-08-04 15:10:43 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q211 xp=897 gold=145
+2025-08-04 15:11:06 [CHAT] MESSAGE player_id=p1 message="Respawning now"
+2025-08-04 15:11:23 [SYSTEM] SERVER_ANNOUNCEMENT text="Server maintenance in 10 minutes"
+2025-08-04 15:11:41 [GAME] QUEST_START player_id=p6 quest_id=q103 name="Quest q103"
+2025-08-04 15:11:58 [CHAT] MESSAGE player_id=p6 message="Watch out for traps"
+2025-08-04 15:12:34 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 15:12:47 [GAME] ZONE_EXIT player_id=p1 zone=MysticLake
+2025-08-04 15:13:17 [COMBAT] DEATH victim_id=p3 killer_id=p2 method=sword
+2025-08-04 15:13:43 [CHAT] MESSAGE player_id=p4 message="Respawning now"
+2025-08-04 15:13:48 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 15:14:14 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p4 xp=4264 gold=939
+2025-08-04 15:14:33 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:14:59 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:15:10 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=GolemKing hp=7892
+2025-08-04 15:15:38 [CHAT] MESSAGE player_id=p4 message="Let's go!"
+2025-08-04 15:15:44 [CHAT] MESSAGE player_id=p6 message="Let's go!"
+2025-08-04 15:16:05 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=ShadowDragon damage=420
+2025-08-04 15:16:31 [CHAT] MESSAGE player_id=p3 message="Headed to MysticLake"
+2025-08-04 15:16:39 [GAME] QUEST_START player_id=p4 quest_id=q446 name="Quest q446"
+2025-08-04 15:16:48 [SYSTEM] SERVER_ANNOUNCEMENT text="Server maintenance in 10 minutes"
+2025-08-04 15:16:56 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:17:15 [COMBAT] DEATH victim_id=p6 killer_id=p2 method=sword
+2025-08-04 15:17:25 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 15:17:51 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:18:13 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:18:32 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:18:49 [GAME] QUEST_START player_id=p1 quest_id=q862 name="Quest q862"
+2025-08-04 15:19:19 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 15:19:41 [GAME] ZONE_ENTER player_id=p5 zone=AncientRuins
+2025-08-04 15:20:15 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 15:20:45 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 15:21:01 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p3 xp=4626 gold=491
+2025-08-04 15:21:06 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:21:18 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:21:24 [CHAT] MESSAGE player_id=p2 message="Team up?"
+2025-08-04 15:21:32 [COMBAT] DEATH victim_id=p1 killer_id=p2 method=sword
+2025-08-04 15:21:54 [GAME] ZONE_EXIT player_id=p1 zone=GreenFields
+2025-08-04 15:22:15 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:22:29 [CHAT] MESSAGE player_id=p4 message="Let's go!"
+2025-08-04 15:23:27 [CHAT] MESSAGE player_id=p6 message="Team up?"
+2025-08-04 15:23:30 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=ShadowDragon hp=4890
+2025-08-04 15:23:47 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 15:23:50 [CHAT] MESSAGE player_id=p6 message="Team up?"
+2025-08-04 15:24:37 [CHAT] MESSAGE player_id=p2 message="Let's go!"
+2025-08-04 15:25:01 [INFO] PLAYER_JOIN id=p1 name=Alice level=31 zone=DarkCave
+2025-08-04 15:25:31 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:26:00 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:26:27 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 15:27:09 [CHAT] MESSAGE player_id=p4 message="Going to the cave"
+2025-08-04 15:27:23 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 15:27:51 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q801 xp=680 gold=156
+2025-08-04 15:27:54 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p2 xp=2573 gold=329
+2025-08-04 15:28:15 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=ShadowDragon hp=6356
+2025-08-04 15:29:04 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q780 xp=616 gold=88
+2025-08-04 15:29:19 [GAME] QUEST_START player_id=p1 quest_id=q578 name="Quest q578"
+2025-08-04 15:29:47 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 15:30:04 [CHAT] MESSAGE player_id=p4 message="Let's go!"
+2025-08-04 15:30:07 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:30:28 [GAME] ITEM_PICKUP player_id=p6 item=mana_potion qty=5 location=(65,52)
+2025-08-04 15:30:41 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p6 xp=2937 gold=725
+2025-08-04 15:30:50 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 15:31:01 [GAME] QUEST_START player_id=p5 quest_id=q492 name="Quest q492"
+2025-08-04 15:31:44 [INFO] PLAYER_JOIN id=p1 name=Alice level=7 zone=GreenFields
+2025-08-04 15:32:31 [GAME] PLAYER_RESPAWN player_id=p1 location=(172,96) hp=100
+2025-08-04 15:32:45 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 15:33:06 [CHAT] MESSAGE player_id=p2 message="Headed to MysticLake"
+2025-08-04 15:33:15 [INFO] PLAYER_JOIN id=p4 name=Diana level=15 zone=GreenFields
+2025-08-04 15:33:31 [SYSTEM] SERVER_ANNOUNCEMENT text="Welcome to BattleQuest!"
+2025-08-04 15:34:01 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:34:17 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=ShadowDragon damage=174
+2025-08-04 15:34:21 [COMBAT] DEATH victim_id=p3 killer_id=p1 method=sword
+2025-08-04 15:34:43 [GAME] ZONE_EXIT player_id=p1 zone=MysticLake
+2025-08-04 15:34:46 [CHAT] MESSAGE player_id=p1 message="Need potions"
+2025-08-04 15:35:05 [CHAT] MESSAGE player_id=p3 message="Boss is spawning soon!"
+2025-08-04 15:35:32 [SYSTEM] SERVER_ANNOUNCEMENT text="PvP tournament registration open"
+2025-08-04 15:35:54 [GAME] ZONE_EXIT player_id=p6 zone=MysticLake
+2025-08-04 15:35:59 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:36:06 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=209
+2025-08-04 15:36:11 [GAME] ITEM_PICKUP player_id=p1 item=health_potion qty=10 location=(191,150)
+2025-08-04 15:36:22 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:36:28 [CHAT] MESSAGE player_id=p1 message="Respawning now"
+2025-08-04 15:36:56 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:37:18 [SYSTEM] SERVER_ANNOUNCEMENT text="World boss will spawn soon"
+2025-08-04 15:37:30 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p5 xp=1762 gold=368
+2025-08-04 15:37:58 [GAME] ITEM_PICKUP player_id=p2 item=health_potion qty=10 location=(192,182)
+2025-08-04 15:38:06 [CHAT] MESSAGE player_id=p2 message=GG!
+2025-08-04 15:38:31 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 15:38:39 [CHAT] MESSAGE player_id=p1 message=GG!
+2025-08-04 15:38:49 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:39:29 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p1 xp=1116 gold=599
+2025-08-04 15:39:46 [SYSTEM] SERVER_ANNOUNCEMENT text="Server maintenance in 10 minutes"
+2025-08-04 15:39:48 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 15:40:05 [CHAT] MESSAGE player_id=p1 message="Watch out for traps"
+2025-08-04 15:40:35 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p5 xp=4325 gold=986
+2025-08-04 15:40:51 [CHAT] MESSAGE player_id=p5 message="Headed to MysticLake"
+2025-08-04 15:40:58 [GAME] ZONE_EXIT player_id=p6 zone=AncientRuins
+2025-08-04 15:41:20 [CHAT] MESSAGE player_id=p4 message="Going to the cave"
+2025-08-04 15:41:32 [CHAT] MESSAGE player_id=p1 message="Boss is spawning soon!"
+2025-08-04 15:41:53 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p2 xp=3644 gold=345
+2025-08-04 15:42:05 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=4106
+2025-08-04 15:42:29 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:42:50 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:43:13 [CHAT] MESSAGE player_id=p1 message=GG!
+2025-08-04 15:43:26 [CHAT] MESSAGE player_id=p2 message="Let's go!"
+2025-08-04 15:43:56 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:44:06 [COMBAT] DEATH victim_id=p5 killer_id=p2 method=sword
+2025-08-04 15:44:35 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=ShadowDragon damage=301
+2025-08-04 15:45:04 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p5 xp=4516 gold=394
+2025-08-04 15:45:25 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p3 xp=1788 gold=972
+2025-08-04 15:45:37 [COMBAT] DEATH victim_id=p1 killer_id=p3 method=sword
+2025-08-04 15:45:55 [COMBAT] DEATH victim_id=p4 killer_id=p3 method=sword
+2025-08-04 15:46:02 [SYSTEM] SERVER_ANNOUNCEMENT text="Double XP event started"
+2025-08-04 15:46:19 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=LichQueen hp=5546
+2025-08-04 15:46:54 [COMBAT] DEATH victim_id=p3 killer_id=p2 method=sword
+2025-08-04 15:47:20 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=ShadowDragon hp=6832
+2025-08-04 15:47:44 [SYSTEM] SERVER_ANNOUNCEMENT text="Treasure hunt started"
+2025-08-04 15:48:32 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q543 xp=757 gold=296
+2025-08-04 15:49:21 [CHAT] MESSAGE player_id=p3 message="Watch out for traps"
+2025-08-04 15:49:28 [INFO] PLAYER_JOIN id=p5 name=Eve level=8 zone=GreenFields
+2025-08-04 15:49:43 [INFO] PLAYER_JOIN id=p3 name=Charlie level=19 zone=DarkCave
+2025-08-04 15:49:45 [GAME] QUEST_START player_id=p2 quest_id=q246 name="Quest q246"
+2025-08-04 15:50:07 [GAME] ITEM_PICKUP player_id=p3 item=iron_sword qty=4 location=(181,162)
+2025-08-04 15:50:36 [COMBAT] DEATH victim_id=p4 killer_id=p6 method=sword
+2025-08-04 15:50:52 [INFO] PLAYER_JOIN id=p5 name=Eve level=1 zone=DarkCave
+2025-08-04 15:52:34 [GAME] SCORE player_id=p6 points=762 reason=defeated_monster
+2025-08-04 15:52:36 [COMBAT] DEATH victim_id=p3 killer_id=p1 method=sword
+2025-08-04 15:52:56 [GAME] ZONE_EXIT player_id=p1 zone=GreenFields
+2025-08-04 15:53:26 [GAME] ITEM_PICKUP player_id=p5 item=health_potion qty=10 location=(191,119)
+2025-08-04 15:54:07 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=GolemKing hp=7237
+2025-08-04 15:54:44 [CHAT] MESSAGE player_id=p5 message="Watch out for traps"
+2025-08-04 15:55:44 [GAME] QUEST_START player_id=p4 quest_id=q155 name="Quest q155"
+2025-08-04 15:56:19 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=LichQueen damage=419
+2025-08-04 15:56:49 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q995 xp=488 gold=175
+2025-08-04 15:57:09 [GAME] QUEST_START player_id=p4 quest_id=q799 name="Quest q799"
+2025-08-04 15:57:34 [GAME] QUEST_START player_id=p6 quest_id=q205 name="Quest q205"
+2025-08-04 15:58:30 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=GolemKing hp=4635
+2025-08-04 15:58:50 [CHAT] MESSAGE player_id=p6 message=GG!
+2025-08-04 15:59:02 [CHAT] MESSAGE player_id=p6 message="Watch out for traps"
+2025-08-04 15:59:28 [CHAT] MESSAGE player_id=p2 message="Anyone need help?"
+2025-08-04 15:59:35 [CHAT] MESSAGE player_id=p1 message="Let's go!"
+2025-08-04 15:59:43 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=LichQueen hp=5668
+2025-08-04 16:00:32 [CHAT] MESSAGE player_id=p4 message="Boss is spawning soon!"
+2025-08-04 16:01:20 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=LichQueen hp=7139
+2025-08-04 16:01:44 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p5 xp=4161 gold=687
+2025-08-04 16:02:07 [GAME] ZONE_EXIT player_id=p5 zone=GreenFields
+2025-08-04 16:02:24 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p2 xp=1358 gold=806
+2025-08-04 16:02:44 [GAME] ZONE_ENTER player_id=p2 zone=MysticLake
+2025-08-04 16:02:58 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=GolemKing damage=348
+2025-08-04 16:03:21 [GAME] ZONE_EXIT player_id=p2 zone=DarkCave
+2025-08-04 16:03:35 [COMBAT] DEATH victim_id=p1 killer_id=p2 method=sword
+2025-08-04 16:04:24 [COMBAT] DEATH victim_id=p3 killer_id=p5 method=sword
+2025-08-04 16:05:00 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=GolemKing hp=4329
+2025-08-04 16:05:30 [GAME] ITEM_PICKUP player_id=p5 item=gold_coin qty=9 location=(193,187)
+2025-08-04 16:05:31 [GAME] ZONE_EXIT player_id=p6 zone=DarkCave
+2025-08-04 16:05:57 [INFO] PLAYER_JOIN id=p6 name=Frank level=39 zone=DarkCave
+2025-08-04 16:07:42 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=LichQueen hp=3840
+2025-08-04 16:08:04 [GAME] SCORE player_id=p3 points=815 reason=defeated_monster
+2025-08-04 16:08:14 [GAME] PLAYER_RESPAWN player_id=p3 location=(81,119) hp=100
+2025-08-04 16:08:30 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p1 xp=3444 gold=521
+2025-08-04 16:08:50 [COMBAT] DEATH victim_id=p1 killer_id=p2 method=sword
+2025-08-04 16:09:31 [GAME] SCORE player_id=p5 points=646 reason=defeated_monster
+2025-08-04 16:10:18 [COMBAT] DEATH victim_id=p4 killer_id=p1 method=sword
+2025-08-04 16:11:38 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=GolemKing damage=164
+2025-08-04 16:12:04 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=ShadowDragon damage=366
+2025-08-04 16:12:28 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=ShadowDragon hp=4711
+2025-08-04 16:13:19 [COMBAT] BOSS_DAMAGE player_id=p5 boss_name=ShadowDragon damage=120
+2025-08-04 16:13:55 [GAME] ZONE_ENTER player_id=p2 zone=DarkCave
+2025-08-04 16:14:23 [GAME] SCORE player_id=p3 points=293 reason=defeated_monster
+2025-08-04 16:14:44 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q700 xp=100 gold=75
+2025-08-04 16:15:07 [GAME] QUEST_START player_id=p6 quest_id=q629 name="Quest q629"
+2025-08-04 16:15:32 [INFO] PLAYER_JOIN id=p4 name=Diana level=11 zone=DarkCave
+2025-08-04 16:16:34 [GAME] QUEST_START player_id=p1 quest_id=q555 name="Quest q555"
+2025-08-04 16:17:13 [GAME] PLAYER_RESPAWN player_id=p2 location=(156,193) hp=100
+2025-08-04 16:17:45 [GAME] SCORE player_id=p3 points=458 reason=defeated_monster
+2025-08-04 16:19:05 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=GolemKing hp=6051
+2025-08-04 16:19:30 [GAME] PLAYER_RESPAWN player_id=p4 location=(50,153) hp=100
+2025-08-04 16:20:33 [GAME] ITEM_PICKUP player_id=p2 item=mana_potion qty=2 location=(176,160)
+2025-08-04 16:21:03 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=ShadowDragon hp=7928
+2025-08-04 16:21:29 [COMBAT] BOSS_DAMAGE player_id=p5 boss_name=LichQueen damage=543
+2025-08-04 16:22:03 [GAME] SCORE player_id=p2 points=676 reason=defeated_monster
+2025-08-04 16:22:27 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=GolemKing damage=378
+2025-08-04 16:23:08 [COMBAT] DEATH victim_id=p5 killer_id=p2 method=sword
+2025-08-04 16:23:54 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=768
+2025-08-04 16:24:07 [COMBAT] DEATH victim_id=p2 killer_id=p6 method=sword
+2025-08-04 16:26:52 [GAME] ZONE_ENTER player_id=p5 zone=DarkCave
+2025-08-04 16:27:49 [COMBAT] DEATH victim_id=p5 killer_id=p3 method=sword
+2025-08-04 16:27:53 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p1 xp=4553 gold=781
+2025-08-04 16:27:58 [GAME] ITEM_PICKUP player_id=p1 item=gold_coin qty=4 location=(97,195)
+2025-08-04 16:28:35 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p6 xp=1388 gold=595
+2025-08-04 16:29:03 [GAME] ITEM_PICKUP player_id=p2 item=gold_coin qty=10 location=(168,127)
+2025-08-04 16:29:38 [GAME] ITEM_PICKUP player_id=p4 item=mana_potion qty=3 location=(186,172)
+2025-08-04 16:30:22 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=ShadowDragon hp=4603
+2025-08-04 16:31:08 [GAME] SCORE player_id=p4 points=381 reason=defeated_monster
+2025-08-04 16:32:13 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=GolemKing damage=369
+2025-08-04 16:32:42 [COMBAT] DEATH victim_id=p5 killer_id=p4 method=sword
+2025-08-04 16:33:28 [GAME] ZONE_ENTER player_id=p5 zone=DarkCave
+2025-08-04 16:33:44 [GAME] ZONE_EXIT player_id=p3 zone=AncientRuins
+2025-08-04 16:34:07 [GAME] ITEM_PICKUP player_id=p5 item=gold_coin qty=10 location=(78,82)
+2025-08-04 16:34:30 [GAME] ITEM_PICKUP player_id=p4 item=health_potion qty=2 location=(104,95)
+2025-08-04 16:34:43 [GAME] ITEM_PICKUP player_id=p2 item=health_potion qty=5 location=(100,53)
+2025-08-04 16:35:50 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=LichQueen hp=5752
+2025-08-04 16:36:18 [GAME] ZONE_EXIT player_id=p3 zone=MysticLake
+2025-08-04 16:36:44 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=GolemKing hp=5854
+2025-08-04 16:37:09 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p3 xp=1771 gold=712
+2025-08-04 16:37:34 [GAME] SCORE player_id=p4 points=359 reason=defeated_monster
+2025-08-04 16:38:02 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q679 xp=953 gold=256
+2025-08-04 16:38:20 [INFO] PLAYER_JOIN id=p6 name=Frank level=47 zone=DarkCave
+2025-08-04 16:39:08 [COMBAT] DEATH victim_id=p6 killer_id=p4 method=sword
+2025-08-04 16:39:52 [COMBAT] DEATH victim_id=p1 killer_id=p5 method=sword
+2025-08-04 16:40:14 [COMBAT] DEATH victim_id=p2 killer_id=p6 method=sword
+2025-08-04 16:40:57 [GAME] ITEM_PICKUP player_id=p3 item=dragon_scale qty=9 location=(138,136)
+2025-08-04 16:41:18 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=ShadowDragon hp=6317
+2025-08-04 16:41:42 [GAME] SCORE player_id=p3 points=673 reason=defeated_monster
+2025-08-04 16:42:55 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p3 xp=1367 gold=659
+2025-08-04 16:43:18 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=LichQueen damage=526
+2025-08-04 16:43:47 [GAME] SCORE player_id=p3 points=402 reason=defeated_monster
+2025-08-04 16:44:17 [COMBAT] DEATH victim_id=p2 killer_id=p3 method=sword
+2025-08-04 16:45:14 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=3437
+2025-08-04 16:45:36 [GAME] PLAYER_RESPAWN player_id=p1 location=(55,155) hp=100
+2025-08-04 16:48:16 [COMBAT] DEATH victim_id=p1 killer_id=p5 method=sword
+2025-08-04 16:48:32 [INFO] PLAYER_JOIN id=p6 name=Frank level=10 zone=AncientRuins
+2025-08-04 16:49:02 [COMBAT] DEATH victim_id=p5 killer_id=p2 method=sword
+2025-08-04 16:49:26 [COMBAT] BOSS_DAMAGE player_id=p5 boss_name=GolemKing damage=488
+2025-08-04 16:49:40 [GAME] QUEST_START player_id=p5 quest_id=q883 name="Quest q883"
+2025-08-04 16:50:39 [INFO] PLAYER_JOIN id=p3 name=Charlie level=9 zone=AncientRuins
+2025-08-04 16:50:57 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=GolemKing damage=293
+2025-08-04 16:51:25 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p1 xp=1907 gold=950
+2025-08-04 16:52:12 [GAME] ZONE_ENTER player_id=p4 zone=AncientRuins
+2025-08-04 16:52:32 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q721 xp=303 gold=218
+2025-08-04 16:53:12 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=GolemKing hp=5205
+2025-08-04 16:53:46 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p4 xp=1613 gold=259
+2025-08-04 16:53:51 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p1 xp=2754 gold=891
+2025-08-04 16:54:24 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=GolemKing hp=5818
+2025-08-04 16:55:13 [GAME] ZONE_EXIT player_id=p1 zone=DarkCave
+2025-08-04 16:57:07 [GAME] QUEST_START player_id=p4 quest_id=q997 name="Quest q997"
+2025-08-04 16:57:38 [GAME] PLAYER_RESPAWN player_id=p5 location=(78,82) hp=100
+2025-08-04 16:58:13 [GAME] ZONE_EXIT player_id=p4 zone=GreenFields
+2025-08-04 16:58:24 [GAME] PLAYER_RESPAWN player_id=p2 location=(77,58) hp=100
+2025-08-04 16:58:32 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p1 xp=1942 gold=719
+2025-08-04 16:59:05 [GAME] ZONE_EXIT player_id=p1 zone=AncientRuins
+2025-08-04 16:59:06 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q124 xp=120 gold=255
+2025-08-04 17:00:14 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=GolemKing hp=3517
+2025-08-04 17:00:36 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=GolemKing damage=181
+2025-08-04 17:01:01 [GAME] ZONE_EXIT player_id=p3 zone=MysticLake
+2025-08-04 17:01:18 [GAME] ITEM_PICKUP player_id=p1 item=iron_sword qty=3 location=(98,118)
+2025-08-04 17:01:37 [COMBAT] DEATH victim_id=p2 killer_id=p4 method=sword
+2025-08-04 17:02:36 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p2 xp=3161 gold=846
+2025-08-04 17:03:04 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=GolemKing damage=332
+2025-08-04 17:03:57 [GAME] QUEST_COMPLETE player_id=p5 quest_id=q244 xp=366 gold=25
+2025-08-04 17:04:17 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=3282
+2025-08-04 17:04:36 [GAME] ITEM_PICKUP player_id=p5 item=dragon_scale qty=10 location=(183,68)
+2025-08-04 17:04:55 [INFO] PLAYER_JOIN id=p3 name=Charlie level=41 zone=AncientRuins
+2025-08-04 17:06:12 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=LichQueen hp=4068
+2025-08-04 17:06:34 [GAME] QUEST_START player_id=p6 quest_id=q394 name="Quest q394"
+2025-08-04 17:07:03 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q549 xp=149 gold=164
+2025-08-04 17:07:07 [GAME] ZONE_ENTER player_id=p4 zone=MysticLake
+2025-08-04 17:07:15 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p6 xp=2944 gold=537
+2025-08-04 17:07:43 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=LichQueen hp=5721
+2025-08-04 17:07:51 [COMBAT] DEATH victim_id=p4 killer_id=p5 method=sword
+2025-08-04 17:08:16 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p2 xp=1611 gold=274
+2025-08-04 17:08:37 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=5207
+2025-08-04 17:08:55 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p2 xp=4554 gold=392
+2025-08-04 17:09:07 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=583
+2025-08-04 17:09:11 [COMBAT] DEATH victim_id=p5 killer_id=p2 method=sword
+2025-08-04 17:11:41 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=LichQueen hp=3647
+2025-08-04 17:12:09 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=GolemKing hp=4886
+2025-08-04 17:12:19 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p2 xp=4026 gold=470
+2025-08-04 17:12:38 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=475
+2025-08-04 17:13:04 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p2 xp=4879 gold=934
+2025-08-04 17:13:31 [GAME] PLAYER_RESPAWN player_id=p5 location=(151,131) hp=100
+2025-08-04 17:13:38 [GAME] SCORE player_id=p6 points=948 reason=defeated_monster
+2025-08-04 17:14:16 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=ShadowDragon damage=500
+2025-08-04 17:15:22 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=LichQueen damage=172
+2025-08-04 17:16:44 [GAME] ZONE_ENTER player_id=p1 zone=DarkCave
+2025-08-04 17:17:16 [COMBAT] DEATH victim_id=p5 killer_id=p2 method=sword
+2025-08-04 17:17:32 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p1 xp=2489 gold=504
+2025-08-04 17:17:34 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q321 xp=905 gold=252
+2025-08-04 17:18:18 [GAME] ZONE_EXIT player_id=p4 zone=DarkCave
+2025-08-04 17:18:48 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p5 xp=1285 gold=785
+2025-08-04 17:19:25 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=ShadowDragon damage=538
+2025-08-04 17:19:49 [GAME] ZONE_ENTER player_id=p3 zone=GreenFields
+2025-08-04 17:20:18 [GAME] PLAYER_RESPAWN player_id=p5 location=(156,58) hp=100
+2025-08-04 17:20:53 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=ShadowDragon damage=741
+2025-08-04 17:21:23 [GAME] ITEM_PICKUP player_id=p3 item=iron_sword qty=1 location=(148,164)
+2025-08-04 17:21:24 [GAME] SCORE player_id=p2 points=373 reason=defeated_monster
+2025-08-04 17:21:45 [GAME] QUEST_START player_id=p5 quest_id=q918 name="Quest q918"
+2025-08-04 17:22:13 [COMBAT] DEATH victim_id=p4 killer_id=p6 method=sword
+2025-08-04 17:22:17 [COMBAT] DEATH victim_id=p1 killer_id=p2 method=sword
+2025-08-04 17:22:35 [GAME] ITEM_PICKUP player_id=p2 item=health_potion qty=5 location=(122,169)
+2025-08-04 17:23:21 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p4 xp=2633 gold=318
+2025-08-04 17:23:24 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q570 xp=277 gold=277
+2025-08-04 17:23:54 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=LichQueen hp=6767
+2025-08-04 17:24:23 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p5 xp=1612 gold=500
+2025-08-04 17:24:55 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=ShadowDragon hp=4045
+2025-08-04 17:25:20 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p4 xp=4103 gold=391
+2025-08-04 17:25:44 [GAME] PLAYER_RESPAWN player_id=p4 location=(200,121) hp=100
+2025-08-04 17:26:20 [GAME] ZONE_EXIT player_id=p3 zone=MysticLake
+2025-08-04 17:26:28 [GAME] PLAYER_RESPAWN player_id=p6 location=(170,105) hp=100
+2025-08-04 17:27:20 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=ShadowDragon hp=6905
+2025-08-04 17:27:49 [COMBAT] DEATH victim_id=p3 killer_id=p1 method=sword
+2025-08-04 17:28:40 [GAME] ZONE_EXIT player_id=p3 zone=MysticLake
+2025-08-04 17:29:07 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q931 xp=684 gold=204
+2025-08-04 17:29:20 [INFO] PLAYER_JOIN id=p4 name=Diana level=28 zone=GreenFields
+2025-08-04 17:30:20 [GAME] PLAYER_RESPAWN player_id=p1 location=(101,113) hp=100
+2025-08-04 17:30:46 [INFO] PLAYER_JOIN id=p1 name=Alice level=45 zone=GreenFields
+2025-08-04 17:31:18 [GAME] PLAYER_RESPAWN player_id=p4 location=(128,60) hp=100
+2025-08-04 17:33:16 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p5 xp=4040 gold=350
+2025-08-04 17:33:45 [GAME] ZONE_ENTER player_id=p1 zone=AncientRuins
+2025-08-04 17:34:40 [COMBAT] DEATH victim_id=p5 killer_id=p1 method=sword
+2025-08-04 17:36:22 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=ShadowDragon damage=133
+2025-08-04 17:36:51 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p6 xp=4057 gold=257
+2025-08-04 17:37:06 [INFO] PLAYER_JOIN id=p6 name=Frank level=32 zone=DarkCave
+2025-08-04 17:38:17 [GAME] PLAYER_RESPAWN player_id=p2 location=(84,71) hp=100
+2025-08-04 17:38:33 [GAME] ZONE_ENTER player_id=p5 zone=MysticLake
+2025-08-04 17:38:44 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=GolemKing hp=5925
+2025-08-04 17:39:08 [GAME] QUEST_START player_id=p6 quest_id=q850 name="Quest q850"
+2025-08-04 17:40:01 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=ShadowDragon damage=457
+2025-08-04 17:40:13 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=6838
+2025-08-04 17:40:20 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=ShadowDragon hp=6603
+2025-08-04 17:40:54 [GAME] ZONE_ENTER player_id=p1 zone=GreenFields
+2025-08-04 17:41:20 [GAME] ZONE_EXIT player_id=p5 zone=MysticLake
+2025-08-04 17:42:01 [COMBAT] DEATH victim_id=p4 killer_id=p5 method=sword
+2025-08-04 17:42:57 [GAME] QUEST_START player_id=p3 quest_id=q715 name="Quest q715"
+2025-08-04 17:43:27 [GAME] PLAYER_RESPAWN player_id=p1 location=(133,190) hp=100
+2025-08-04 17:43:52 [GAME] ZONE_ENTER player_id=p1 zone=AncientRuins
+2025-08-04 17:44:21 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=GolemKing damage=754
+2025-08-04 17:45:32 [COMBAT] DEATH victim_id=p6 killer_id=p2 method=sword
+2025-08-04 17:46:42 [GAME] ITEM_PICKUP player_id=p2 item=health_potion qty=1 location=(112,96)
+2025-08-04 17:47:12 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p4 xp=4412 gold=656
+2025-08-04 17:48:33 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=ShadowDragon hp=4627
+2025-08-04 17:49:05 [GAME] ZONE_ENTER player_id=p6 zone=MysticLake
+2025-08-04 17:49:24 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=GolemKing damage=248
+2025-08-04 17:50:24 [GAME] QUEST_START player_id=p6 quest_id=q274 name="Quest q274"
+2025-08-04 17:50:55 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=524
+2025-08-04 17:51:44 [INFO] PLAYER_JOIN id=p1 name=Alice level=14 zone=DarkCave
+2025-08-04 17:51:48 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p2 xp=4276 gold=385
+2025-08-04 17:51:53 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=ShadowDragon hp=6307
+2025-08-04 17:52:20 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=371
+2025-08-04 17:52:44 [GAME] QUEST_START player_id=p6 quest_id=q887 name="Quest q887"
+2025-08-04 17:53:19 [GAME] SCORE player_id=p2 points=223 reason=defeated_monster
+2025-08-04 17:53:25 [GAME] ZONE_EXIT player_id=p6 zone=GreenFields
+2025-08-04 17:54:09 [COMBAT] DEATH victim_id=p3 killer_id=p1 method=sword
+2025-08-04 17:54:29 [COMBAT] DEATH victim_id=p6 killer_id=p2 method=sword
+2025-08-04 17:55:55 [COMBAT] DEATH victim_id=p2 killer_id=p6 method=sword
+2025-08-04 17:56:01 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=LichQueen hp=6530
+2025-08-04 17:56:10 [GAME] ZONE_ENTER player_id=p6 zone=DarkCave
+2025-08-04 17:56:39 [GAME] SCORE player_id=p2 points=708 reason=defeated_monster
+2025-08-04 17:57:12 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=ShadowDragon hp=5502
+2025-08-04 17:57:18 [GAME] ZONE_EXIT player_id=p4 zone=GreenFields
+2025-08-04 17:58:20 [INFO] PLAYER_JOIN id=p1 name=Alice level=5 zone=DarkCave
+2025-08-04 17:58:44 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=205
+2025-08-04 17:59:15 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=341
+2025-08-04 17:59:29 [GAME] ITEM_PICKUP player_id=p2 item=gold_coin qty=8 location=(135,91)
+2025-08-04 18:00:09 [GAME] PLAYER_RESPAWN player_id=p3 location=(193,85) hp=100
+2025-08-04 18:01:23 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=LichQueen damage=401
+2025-08-04 18:01:35 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q605 xp=230 gold=70
+2025-08-04 18:01:55 [INFO] PLAYER_JOIN id=p6 name=Frank level=1 zone=GreenFields
+2025-08-04 18:02:08 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p1 xp=4528 gold=389
+2025-08-04 18:02:15 [INFO] PLAYER_JOIN id=p3 name=Charlie level=1 zone=AncientRuins
+2025-08-04 18:02:40 [COMBAT] DEATH victim_id=p6 killer_id=p1 method=sword
+2025-08-04 18:02:43 [INFO] PLAYER_JOIN id=p4 name=Diana level=31 zone=MysticLake
+2025-08-04 18:03:04 [GAME] QUEST_START player_id=p4 quest_id=q725 name="Quest q725"
+2025-08-04 18:03:52 [GAME] ITEM_PICKUP player_id=p5 item=dragon_scale qty=2 location=(73,110)
+2025-08-04 18:04:15 [GAME] ZONE_EXIT player_id=p4 zone=GreenFields
+2025-08-04 18:04:31 [GAME] ITEM_PICKUP player_id=p5 item=health_potion qty=3 location=(95,54)
+2025-08-04 18:04:34 [COMBAT] DEATH victim_id=p1 killer_id=p3 method=sword
+2025-08-04 18:05:11 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=GolemKing damage=516
+2025-08-04 18:05:25 [GAME] ZONE_ENTER player_id=p4 zone=GreenFields
+2025-08-04 18:05:28 [COMBAT] DEATH victim_id=p5 killer_id=p2 method=sword
+2025-08-04 18:06:34 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p6 xp=2382 gold=662
+2025-08-04 18:07:42 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p6 xp=2363 gold=710
+2025-08-04 18:08:46 [COMBAT] DEATH victim_id=p6 killer_id=p1 method=sword
+2025-08-04 18:09:11 [INFO] PLAYER_JOIN id=p5 name=Eve level=37 zone=AncientRuins
+2025-08-04 18:09:12 [GAME] PLAYER_RESPAWN player_id=p6 location=(138,171) hp=100
+2025-08-04 18:09:51 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=LichQueen damage=420
+2025-08-04 18:11:04 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=LichQueen hp=5322
+2025-08-04 18:11:14 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=ShadowDragon hp=3327
+2025-08-04 18:11:57 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p6 xp=4611 gold=241
+2025-08-04 18:12:14 [GAME] PLAYER_RESPAWN player_id=p3 location=(56,169) hp=100
+2025-08-04 18:12:48 [GAME] ZONE_ENTER player_id=p4 zone=DarkCave
+2025-08-04 18:13:14 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q169 xp=979 gold=260
+2025-08-04 18:13:35 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p2 xp=3181 gold=547
+2025-08-04 18:14:35 [GAME] ZONE_ENTER player_id=p2 zone=GreenFields
+2025-08-04 18:14:36 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q391 xp=666 gold=110
+2025-08-04 18:14:41 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=GolemKing hp=6003
+2025-08-04 18:14:53 [INFO] PLAYER_JOIN id=p4 name=Diana level=20 zone=AncientRuins
+2025-08-04 18:15:36 [GAME] QUEST_START player_id=p1 quest_id=q568 name="Quest q568"
+2025-08-04 18:16:16 [GAME] ZONE_ENTER player_id=p4 zone=MysticLake
+2025-08-04 18:16:24 [COMBAT] DEATH victim_id=p5 killer_id=p6 method=sword
+2025-08-04 18:17:49 [GAME] QUEST_START player_id=p6 quest_id=q844 name="Quest q844"
+2025-08-04 18:18:57 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p3 xp=1691 gold=201
+2025-08-04 18:19:37 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=ShadowDragon hp=3255
+2025-08-04 18:19:44 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=LichQueen damage=685
+2025-08-04 18:20:08 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=ShadowDragon hp=6193
+2025-08-04 18:20:30 [GAME] QUEST_START player_id=p2 quest_id=q839 name="Quest q839"
+2025-08-04 18:21:55 [GAME] ITEM_PICKUP player_id=p6 item=ancient_scroll qty=7 location=(156,82)
+2025-08-04 18:22:29 [GAME] ZONE_ENTER player_id=p3 zone=AncientRuins
+2025-08-04 18:23:00 [GAME] ITEM_PICKUP player_id=p6 item=health_potion qty=8 location=(60,68)
+2025-08-04 18:25:01 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=LichQueen hp=7480
+2025-08-04 18:26:41 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p6 xp=4455 gold=935
+2025-08-04 18:26:50 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=ShadowDragon hp=5588
+2025-08-04 18:27:00 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q707 xp=553 gold=272
+2025-08-04 18:27:21 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q335 xp=369 gold=222
+2025-08-04 18:27:43 [GAME] ZONE_ENTER player_id=p6 zone=DarkCave
+2025-08-04 18:28:04 [GAME] ZONE_ENTER player_id=p5 zone=GreenFields
+2025-08-04 18:28:27 [GAME] PLAYER_RESPAWN player_id=p2 location=(139,156) hp=100
+2025-08-04 18:30:00 [GAME] ZONE_EXIT player_id=p2 zone=DarkCave
+2025-08-04 18:31:01 [GAME] PLAYER_RESPAWN player_id=p5 location=(85,151) hp=100
+2025-08-04 18:31:13 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=ShadowDragon damage=516
+2025-08-04 18:31:28 [INFO] PLAYER_JOIN id=p6 name=Frank level=45 zone=DarkCave
+2025-08-04 18:32:24 [COMBAT] DEATH victim_id=p1 killer_id=p5 method=sword
+2025-08-04 18:32:44 [GAME] QUEST_START player_id=p3 quest_id=q519 name="Quest q519"
+2025-08-04 18:33:01 [INFO] PLAYER_JOIN id=p2 name=Bob level=8 zone=MysticLake
+2025-08-04 18:33:28 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p1 xp=1149 gold=642
+2025-08-04 18:33:48 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=ShadowDragon damage=767
+2025-08-04 18:34:06 [GAME] ZONE_EXIT player_id=p5 zone=MysticLake
+2025-08-04 18:34:50 [GAME] ITEM_PICKUP player_id=p6 item=gold_coin qty=2 location=(91,131)
+2025-08-04 18:35:18 [GAME] SCORE player_id=p4 points=270 reason=defeated_monster
+2025-08-04 18:36:03 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q327 xp=150 gold=281
+2025-08-04 18:36:46 [GAME] PLAYER_RESPAWN player_id=p4 location=(153,94) hp=100
+2025-08-04 18:37:29 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p4 xp=2571 gold=409
+2025-08-04 18:37:56 [COMBAT] DEATH victim_id=p4 killer_id=p3 method=sword
+2025-08-04 18:39:40 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=LichQueen damage=494
+2025-08-04 18:40:04 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=GolemKing damage=722
+2025-08-04 18:40:43 [COMBAT] DEATH victim_id=p4 killer_id=p5 method=sword
+2025-08-04 18:41:08 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p6 xp=2502 gold=320
+2025-08-04 18:41:34 [INFO] PLAYER_JOIN id=p6 name=Frank level=29 zone=GreenFields
+2025-08-04 18:42:16 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p5 xp=2757 gold=810
+2025-08-04 18:42:44 [INFO] PLAYER_JOIN id=p2 name=Bob level=18 zone=MysticLake
+2025-08-04 18:42:56 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=LichQueen damage=531
+2025-08-04 18:43:12 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p6 xp=1197 gold=923
+2025-08-04 18:43:13 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=GolemKing hp=6440
+2025-08-04 18:43:34 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q411 xp=162 gold=225
+2025-08-04 18:44:33 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=GolemKing damage=110
+2025-08-04 18:46:09 [COMBAT] DEATH victim_id=p2 killer_id=p6 method=sword
+2025-08-04 18:46:34 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q504 xp=237 gold=129
+2025-08-04 18:46:59 [INFO] PLAYER_JOIN id=p5 name=Eve level=47 zone=AncientRuins
+2025-08-04 18:47:14 [GAME] ITEM_PICKUP player_id=p6 item=gold_coin qty=6 location=(186,73)
+2025-08-04 18:48:18 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=LichQueen damage=693
+2025-08-04 18:48:34 [GAME] PLAYER_RESPAWN player_id=p5 location=(134,122) hp=100
+2025-08-04 18:49:44 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p5 xp=2775 gold=416
+2025-08-04 18:50:17 [COMBAT] DEATH victim_id=p6 killer_id=p5 method=sword
+2025-08-04 18:51:04 [GAME] ZONE_EXIT player_id=p3 zone=DarkCave
+2025-08-04 18:51:52 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=ShadowDragon hp=6215
+2025-08-04 18:52:53 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=LichQueen hp=4164
+2025-08-04 18:53:00 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=ShadowDragon hp=4515
+2025-08-04 18:54:25 [GAME] SCORE player_id=p3 points=186 reason=defeated_monster
+2025-08-04 18:54:55 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=GolemKing hp=7755
+2025-08-04 18:54:58 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p1 xp=4460 gold=548
+2025-08-04 18:55:33 [GAME] ZONE_ENTER player_id=p3 zone=DarkCave
+2025-08-04 18:55:55 [GAME] ZONE_EXIT player_id=p5 zone=DarkCave
+2025-08-04 18:57:43 [GAME] ITEM_PICKUP player_id=p1 item=gold_coin qty=2 location=(73,58)
+2025-08-04 18:57:51 [INFO] PLAYER_JOIN id=p1 name=Alice level=39 zone=MysticLake
+2025-08-04 18:58:37 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p4 xp=2951 gold=473
+2025-08-04 18:58:55 [GAME] SCORE player_id=p4 points=402 reason=defeated_monster
+2025-08-04 19:00:49 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q293 xp=610 gold=26
+2025-08-04 19:02:30 [GAME] SCORE player_id=p4 points=944 reason=defeated_monster
+2025-08-04 19:03:26 [COMBAT] DEATH victim_id=p5 killer_id=p4 method=sword
+2025-08-04 19:04:11 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p1 xp=3871 gold=867
+2025-08-04 19:04:16 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p3 xp=3617 gold=249
+2025-08-04 19:05:00 [GAME] ZONE_ENTER player_id=p3 zone=GreenFields
+2025-08-04 19:05:33 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q918 xp=509 gold=16
+2025-08-04 19:05:38 [COMBAT] DEATH victim_id=p3 killer_id=p2 method=sword
+2025-08-04 19:06:18 [GAME] ITEM_PICKUP player_id=p1 item=dragon_scale qty=6 location=(117,162)
+2025-08-04 19:07:00 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p1 xp=4465 gold=355
+2025-08-04 19:07:06 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=ShadowDragon damage=262
+2025-08-04 19:07:10 [GAME] QUEST_START player_id=p1 quest_id=q976 name="Quest q976"
+2025-08-04 19:09:11 [COMBAT] DEATH victim_id=p4 killer_id=p6 method=sword
+2025-08-04 19:09:40 [GAME] PLAYER_RESPAWN player_id=p3 location=(93,74) hp=100
+2025-08-04 19:10:58 [GAME] ZONE_EXIT player_id=p4 zone=DarkCave
+2025-08-04 19:12:03 [COMBAT] DEATH victim_id=p5 killer_id=p1 method=sword
+2025-08-04 19:12:04 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=LichQueen damage=378
+2025-08-04 19:12:46 [GAME] ITEM_PICKUP player_id=p1 item=mana_potion qty=9 location=(95,175)
+2025-08-04 19:13:24 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=GolemKing hp=3151
+2025-08-04 19:13:31 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q730 xp=104 gold=145
+2025-08-04 19:14:35 [COMBAT] DEATH victim_id=p5 killer_id=p3 method=sword
+2025-08-04 19:15:01 [GAME] ZONE_EXIT player_id=p4 zone=MysticLake
+2025-08-04 19:15:43 [GAME] QUEST_START player_id=p6 quest_id=q761 name="Quest q761"
+2025-08-04 19:15:55 [GAME] QUEST_START player_id=p3 quest_id=q564 name="Quest q564"
+2025-08-04 19:16:24 [COMBAT] DEATH victim_id=p6 killer_id=p4 method=sword
+2025-08-04 19:16:45 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q328 xp=915 gold=269
+2025-08-04 19:18:29 [COMBAT] DEATH victim_id=p2 killer_id=p1 method=sword
+2025-08-04 19:19:15 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=348
+2025-08-04 19:19:58 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=GolemKing damage=712
+2025-08-04 19:21:10 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=GolemKing hp=7565
+2025-08-04 19:21:14 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=ShadowDragon hp=3122
+2025-08-04 19:21:16 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q802 xp=562 gold=125
+2025-08-04 19:21:33 [INFO] PLAYER_JOIN id=p4 name=Diana level=25 zone=MysticLake
+2025-08-04 19:21:51 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=LichQueen damage=148
+2025-08-04 19:22:20 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q793 xp=242 gold=33
+2025-08-04 19:22:21 [GAME] PLAYER_RESPAWN player_id=p2 location=(160,73) hp=100
+2025-08-04 19:22:38 [INFO] PLAYER_JOIN id=p3 name=Charlie level=26 zone=GreenFields
+2025-08-04 19:22:59 [GAME] ZONE_ENTER player_id=p2 zone=DarkCave
+2025-08-04 19:23:54 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=GolemKing damage=706
+2025-08-04 19:24:00 [GAME] ITEM_PICKUP player_id=p2 item=gold_coin qty=2 location=(98,63)
+2025-08-04 19:24:28 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=GolemKing damage=406
+2025-08-04 19:24:30 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=GolemKing damage=491
+2025-08-04 19:24:43 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p5 xp=3141 gold=367
+2025-08-04 19:24:47 [GAME] QUEST_START player_id=p4 quest_id=q779 name="Quest q779"
+2025-08-04 19:25:49 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=ShadowDragon damage=345
+2025-08-04 19:26:30 [GAME] ITEM_PICKUP player_id=p4 item=gold_coin qty=2 location=(152,156)
+2025-08-04 19:26:50 [GAME] ITEM_PICKUP player_id=p1 item=ancient_scroll qty=2 location=(59,174)
+2025-08-04 19:26:52 [GAME] SCORE player_id=p2 points=709 reason=defeated_monster
+2025-08-04 19:27:17 [COMBAT] DEATH victim_id=p1 killer_id=p6 method=sword
+2025-08-04 19:27:30 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p3 xp=2971 gold=419
+2025-08-04 19:27:43 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=LichQueen damage=586
+2025-08-04 19:28:05 [GAME] ZONE_ENTER player_id=p1 zone=GreenFields
+2025-08-04 19:29:22 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p6 xp=3131 gold=552
+2025-08-04 19:29:54 [GAME] ITEM_PICKUP player_id=p2 item=ancient_scroll qty=9 location=(128,116)
+2025-08-04 19:30:55 [INFO] PLAYER_JOIN id=p4 name=Diana level=37 zone=AncientRuins
+2025-08-04 19:32:12 [GAME] ZONE_ENTER player_id=p5 zone=AncientRuins
+2025-08-04 19:32:48 [GAME] QUEST_START player_id=p4 quest_id=q811 name="Quest q811"
+2025-08-04 19:33:14 [GAME] SCORE player_id=p6 points=558 reason=defeated_monster
+2025-08-04 19:33:23 [INFO] PLAYER_JOIN id=p2 name=Bob level=33 zone=AncientRuins
+2025-08-04 19:33:26 [GAME] QUEST_START player_id=p6 quest_id=q115 name="Quest q115"
+2025-08-04 19:33:46 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=ShadowDragon hp=4593
+2025-08-04 19:34:54 [GAME] ZONE_EXIT player_id=p5 zone=AncientRuins
+2025-08-04 19:35:32 [GAME] SCORE player_id=p2 points=434 reason=defeated_monster
+2025-08-04 19:35:37 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=ShadowDragon damage=760
+2025-08-04 19:36:03 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=GolemKing hp=6748
+2025-08-04 19:37:06 [COMBAT] BOSS_DAMAGE player_id=p5 boss_name=ShadowDragon damage=266
+2025-08-04 19:37:33 [COMBAT] DEATH victim_id=p1 killer_id=p3 method=sword
+2025-08-04 19:38:02 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p1 xp=4673 gold=496
+2025-08-04 19:38:09 [GAME] PLAYER_RESPAWN player_id=p2 location=(167,177) hp=100
+2025-08-04 19:38:13 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=LichQueen damage=385
+2025-08-04 19:38:52 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=ShadowDragon hp=5023
+2025-08-04 19:39:11 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p2 xp=3879 gold=493
+2025-08-04 19:39:55 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p1 xp=1458 gold=854
+2025-08-04 19:40:25 [GAME] SCORE player_id=p4 points=646 reason=defeated_monster
+2025-08-04 19:40:52 [GAME] PLAYER_RESPAWN player_id=p4 location=(105,138) hp=100
+2025-08-04 19:41:57 [GAME] ITEM_PICKUP player_id=p2 item=ancient_scroll qty=9 location=(60,102)
+2025-08-04 19:42:42 [INFO] PLAYER_JOIN id=p1 name=Alice level=41 zone=DarkCave
+2025-08-04 19:43:05 [INFO] PLAYER_JOIN id=p2 name=Bob level=36 zone=MysticLake
+2025-08-04 19:43:28 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=LichQueen damage=782
+2025-08-04 19:43:34 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q310 xp=173 gold=105
+2025-08-04 19:43:56 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p2 xp=1819 gold=838
+2025-08-04 19:45:09 [COMBAT] DEATH victim_id=p2 killer_id=p5 method=sword
+2025-08-04 19:45:24 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p6 xp=3346 gold=686
+2025-08-04 19:45:30 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p2 xp=1916 gold=733
+2025-08-04 19:45:47 [GAME] PLAYER_RESPAWN player_id=p2 location=(83,60) hp=100
+2025-08-04 19:46:09 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q918 xp=624 gold=259
+2025-08-04 19:46:36 [COMBAT] DEATH victim_id=p2 killer_id=p5 method=sword
+2025-08-04 19:47:23 [GAME] ZONE_EXIT player_id=p2 zone=DarkCave
+2025-08-04 19:47:42 [GAME] QUEST_COMPLETE player_id=p5 quest_id=q384 xp=584 gold=165
+2025-08-04 19:48:04 [GAME] ZONE_ENTER player_id=p4 zone=MysticLake
+2025-08-04 19:48:24 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=3242
+2025-08-04 19:49:29 [GAME] ZONE_ENTER player_id=p2 zone=MysticLake
+2025-08-04 19:51:01 [GAME] ZONE_ENTER player_id=p2 zone=AncientRuins
+2025-08-04 19:51:30 [GAME] ZONE_ENTER player_id=p6 zone=DarkCave
+2025-08-04 19:52:19 [GAME] QUEST_START player_id=p5 quest_id=q323 name="Quest q323"
+2025-08-04 19:53:42 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p2 xp=3932 gold=419
+2025-08-04 19:54:07 [GAME] ITEM_PICKUP player_id=p3 item=mana_potion qty=2 location=(93,138)
+2025-08-04 19:55:13 [GAME] ITEM_PICKUP player_id=p4 item=gold_coin qty=6 location=(68,102)
+2025-08-04 19:57:13 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q133 xp=464 gold=70
+2025-08-04 19:57:26 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q475 xp=591 gold=22
+2025-08-04 19:57:46 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p3 xp=1356 gold=970
+2025-08-04 19:58:13 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=LichQueen damage=521
+2025-08-04 19:58:50 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p3 xp=1011 gold=759
+2025-08-04 19:59:28 [GAME] ITEM_PICKUP player_id=p3 item=mana_potion qty=1 location=(190,103)
+2025-08-04 20:00:45 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=GolemKing hp=3304
+2025-08-04 20:01:41 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=LichQueen hp=7848
+2025-08-04 20:02:26 [GAME] ZONE_EXIT player_id=p6 zone=GreenFields
+2025-08-04 20:02:53 [GAME] PLAYER_RESPAWN player_id=p6 location=(129,147) hp=100
+2025-08-04 20:02:56 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q149 xp=919 gold=163
+2025-08-04 20:03:04 [COMBAT] BOSS_DAMAGE player_id=p5 boss_name=LichQueen damage=332
+2025-08-04 20:03:43 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=ShadowDragon hp=4571
+2025-08-04 20:03:54 [GAME] ZONE_EXIT player_id=p5 zone=GreenFields
+2025-08-04 20:04:28 [GAME] SCORE player_id=p5 points=645 reason=defeated_monster
+2025-08-04 20:04:31 [COMBAT] DEATH victim_id=p1 killer_id=p6 method=sword
+2025-08-04 20:05:09 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=LichQueen damage=305
+2025-08-04 20:05:31 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p6 xp=1546 gold=610
+2025-08-04 20:06:11 [GAME] SCORE player_id=p4 points=632 reason=defeated_monster
+2025-08-04 20:06:24 [GAME] QUEST_START player_id=p2 quest_id=q146 name="Quest q146"
+2025-08-04 20:07:20 [GAME] ZONE_EXIT player_id=p5 zone=MysticLake
+2025-08-04 20:07:31 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=414
+2025-08-04 20:07:44 [GAME] ITEM_PICKUP player_id=p3 item=iron_sword qty=2 location=(156,144)
+2025-08-04 20:08:29 [COMBAT] DEATH victim_id=p1 killer_id=p4 method=sword
+2025-08-04 20:09:05 [GAME] ZONE_ENTER player_id=p1 zone=AncientRuins
+2025-08-04 20:09:28 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p4 xp=4894 gold=915
+2025-08-04 20:10:20 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=800
+2025-08-04 20:11:22 [GAME] QUEST_START player_id=p4 quest_id=q130 name="Quest q130"
+2025-08-04 20:11:39 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=ShadowDragon damage=620
+2025-08-04 20:12:21 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=GolemKing hp=3684
+2025-08-04 20:12:25 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=LichQueen hp=3508
+2025-08-04 20:12:31 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=ShadowDragon hp=6350
+2025-08-04 20:12:53 [INFO] PLAYER_JOIN id=p3 name=Charlie level=33 zone=AncientRuins
+2025-08-04 20:14:10 [COMBAT] DEATH victim_id=p5 killer_id=p4 method=sword
+2025-08-04 20:15:10 [GAME] PLAYER_RESPAWN player_id=p3 location=(109,82) hp=100
+2025-08-04 20:15:22 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p1 xp=4630 gold=508
+2025-08-04 20:15:29 [COMBAT] DEATH victim_id=p1 killer_id=p5 method=sword
+2025-08-04 20:16:31 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p5 xp=1595 gold=239
+2025-08-04 20:17:18 [GAME] ZONE_ENTER player_id=p6 zone=MysticLake
+2025-08-04 20:17:36 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=GolemKing damage=201
+2025-08-04 20:19:00 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=ShadowDragon hp=3353
+2025-08-04 20:19:39 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=GolemKing damage=114
+2025-08-04 20:20:06 [GAME] ZONE_EXIT player_id=p4 zone=AncientRuins
+2025-08-04 20:20:12 [GAME] QUEST_START player_id=p5 quest_id=q697 name="Quest q697"
+2025-08-04 20:20:41 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p1 xp=4069 gold=777
+2025-08-04 20:20:45 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=GolemKing hp=7589
+2025-08-04 20:21:03 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p3 xp=2859 gold=436
+2025-08-04 20:22:32 [GAME] ITEM_PICKUP player_id=p1 item=ancient_scroll qty=3 location=(149,50)
+2025-08-04 20:23:16 [GAME] PLAYER_RESPAWN player_id=p2 location=(199,186) hp=100
+2025-08-04 20:23:19 [GAME] ZONE_EXIT player_id=p1 zone=GreenFields
+2025-08-04 20:23:34 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=ShadowDragon damage=243
+2025-08-04 20:24:26 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=GolemKing damage=609
+2025-08-04 20:24:54 [GAME] ZONE_EXIT player_id=p1 zone=AncientRuins
+2025-08-04 20:26:04 [GAME] QUEST_START player_id=p3 quest_id=q202 name="Quest q202"
+2025-08-04 20:26:23 [GAME] QUEST_START player_id=p6 quest_id=q404 name="Quest q404"
+2025-08-04 20:27:12 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=GolemKing hp=6003
+2025-08-04 20:27:45 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=GolemKing damage=578
+2025-08-04 20:28:11 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p6 xp=2964 gold=941
+2025-08-04 20:28:31 [GAME] QUEST_COMPLETE player_id=p5 quest_id=q210 xp=971 gold=197
+2025-08-04 20:29:21 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q475 xp=243 gold=134
+2025-08-04 20:30:08 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=GolemKing damage=379
+2025-08-04 20:30:29 [INFO] PLAYER_JOIN id=p5 name=Eve level=19 zone=AncientRuins
+2025-08-04 20:31:02 [GAME] SCORE player_id=p6 points=592 reason=defeated_monster
+2025-08-04 20:31:27 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=ShadowDragon damage=279
+2025-08-04 20:32:11 [COMBAT] BOSS_FIGHT_START player_id=p4 boss_name=ShadowDragon hp=3062
+2025-08-04 20:32:49 [GAME] PLAYER_RESPAWN player_id=p1 location=(80,110) hp=100
+2025-08-04 20:33:14 [COMBAT] DEATH victim_id=p4 killer_id=p2 method=sword
+2025-08-04 20:33:26 [INFO] PLAYER_JOIN id=p3 name=Charlie level=16 zone=DarkCave
+2025-08-04 20:33:51 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q580 xp=508 gold=213
+2025-08-04 20:33:52 [COMBAT] DEATH victim_id=p2 killer_id=p3 method=sword
+2025-08-04 20:34:44 [COMBAT] DEATH victim_id=p6 killer_id=p3 method=sword
+2025-08-04 20:35:20 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q280 xp=289 gold=155
+2025-08-04 20:35:36 [GAME] ZONE_EXIT player_id=p6 zone=DarkCave
+2025-08-04 20:36:20 [GAME] SCORE player_id=p4 points=818 reason=defeated_monster
+2025-08-04 20:36:48 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p6 xp=3908 gold=764
+2025-08-04 20:37:14 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=GolemKing hp=6423
+2025-08-04 20:38:00 [GAME] QUEST_START player_id=p5 quest_id=q513 name="Quest q513"
+2025-08-04 20:38:19 [GAME] ITEM_PICKUP player_id=p2 item=dragon_scale qty=8 location=(129,84)
+2025-08-04 20:38:38 [GAME] ITEM_PICKUP player_id=p4 item=dragon_scale qty=1 location=(132,192)
+2025-08-04 20:38:47 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p4 xp=4452 gold=299
+2025-08-04 20:39:29 [GAME] SCORE player_id=p5 points=66 reason=defeated_monster
+2025-08-04 20:40:19 [GAME] ZONE_EXIT player_id=p4 zone=MysticLake
+2025-08-04 20:40:45 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=LichQueen damage=188
+2025-08-04 20:42:15 [COMBAT] DEATH victim_id=p5 killer_id=p2 method=sword
+2025-08-04 20:42:24 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=5654
+2025-08-04 20:42:42 [INFO] PLAYER_JOIN id=p4 name=Diana level=34 zone=GreenFields
+2025-08-04 20:43:18 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=LichQueen hp=7233
+2025-08-04 20:43:51 [GAME] QUEST_START player_id=p2 quest_id=q719 name="Quest q719"
+2025-08-04 20:44:39 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=4665
+2025-08-04 20:44:40 [COMBAT] DEATH victim_id=p4 killer_id=p6 method=sword
+2025-08-04 20:44:58 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q527 xp=445 gold=122
+2025-08-04 20:45:32 [INFO] PLAYER_JOIN id=p1 name=Alice level=48 zone=GreenFields
+2025-08-04 20:45:56 [INFO] PLAYER_JOIN id=p4 name=Diana level=29 zone=DarkCave
+2025-08-04 20:47:43 [INFO] PLAYER_JOIN id=p5 name=Eve level=26 zone=AncientRuins
+2025-08-04 20:48:42 [COMBAT] DEATH victim_id=p1 killer_id=p5 method=sword
+2025-08-04 20:50:06 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=LichQueen hp=3997
+2025-08-04 20:51:41 [COMBAT] DEATH victim_id=p6 killer_id=p4 method=sword
+2025-08-04 20:51:52 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=ShadowDragon damage=251
+2025-08-04 20:53:02 [COMBAT] DEATH victim_id=p4 killer_id=p6 method=sword
+2025-08-04 20:55:16 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q898 xp=139 gold=267
+2025-08-04 20:57:13 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=ShadowDragon damage=426
+2025-08-04 20:57:43 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p4 xp=3119 gold=332
+2025-08-04 20:59:12 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=LichQueen damage=609
+2025-08-04 21:00:09 [INFO] PLAYER_JOIN id=p4 name=Diana level=23 zone=AncientRuins
+2025-08-04 21:00:57 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p5 xp=2010 gold=823
+2025-08-04 21:01:19 [GAME] ITEM_PICKUP player_id=p3 item=gold_coin qty=5 location=(74,122)
+2025-08-04 21:02:55 [GAME] ZONE_ENTER player_id=p3 zone=AncientRuins
+2025-08-04 21:03:16 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=GolemKing damage=636
+2025-08-04 21:03:27 [GAME] ZONE_ENTER player_id=p2 zone=GreenFields
+2025-08-04 21:03:57 [INFO] PLAYER_JOIN id=p2 name=Bob level=44 zone=MysticLake
+2025-08-04 21:04:02 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=LichQueen hp=6720
+2025-08-04 21:04:57 [COMBAT] BOSS_DEFEAT boss_name=ShadowDragon defeated_by=p5 xp=4481 gold=631
+2025-08-04 21:05:08 [INFO] PLAYER_JOIN id=p6 name=Frank level=23 zone=AncientRuins
+2025-08-04 21:05:22 [GAME] ITEM_PICKUP player_id=p2 item=ancient_scroll qty=10 location=(56,172)
+2025-08-04 21:06:07 [GAME] PLAYER_RESPAWN player_id=p6 location=(175,105) hp=100
+2025-08-04 21:06:52 [COMBAT] DEATH victim_id=p3 killer_id=p6 method=sword
+2025-08-04 21:06:56 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=LichQueen damage=324
+2025-08-04 21:07:22 [GAME] ITEM_PICKUP player_id=p6 item=iron_sword qty=6 location=(165,123)
+2025-08-04 21:07:38 [GAME] ITEM_PICKUP player_id=p4 item=gold_coin qty=5 location=(82,190)
+2025-08-04 21:07:59 [GAME] ZONE_EXIT player_id=p2 zone=GreenFields
+2025-08-04 21:08:05 [GAME] PLAYER_RESPAWN player_id=p4 location=(54,102) hp=100
+2025-08-04 21:08:54 [COMBAT] DEATH victim_id=p5 killer_id=p4 method=sword
+2025-08-04 21:09:33 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=3188
+2025-08-04 21:09:38 [COMBAT] DEATH victim_id=p6 killer_id=p4 method=sword
+2025-08-04 21:09:47 [INFO] PLAYER_JOIN id=p4 name=Diana level=8 zone=DarkCave
+2025-08-04 21:10:08 [COMBAT] DEATH victim_id=p4 killer_id=p3 method=sword
+2025-08-04 21:10:31 [GAME] ZONE_EXIT player_id=p3 zone=AncientRuins
+2025-08-04 21:10:48 [GAME] PLAYER_RESPAWN player_id=p5 location=(124,50) hp=100
+2025-08-04 21:11:04 [INFO] PLAYER_JOIN id=p1 name=Alice level=20 zone=MysticLake
+2025-08-04 21:11:47 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q696 xp=194 gold=274
+2025-08-04 21:12:36 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=ShadowDragon hp=3277
+2025-08-04 21:13:50 [COMBAT] DEATH victim_id=p5 killer_id=p2 method=sword
+2025-08-04 21:13:56 [GAME] ZONE_ENTER player_id=p4 zone=GreenFields
+2025-08-04 21:14:25 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=LichQueen damage=436
+2025-08-04 21:14:55 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=LichQueen damage=540
+2025-08-04 21:15:40 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p2 xp=3690 gold=268
+2025-08-04 21:16:09 [GAME] ZONE_EXIT player_id=p5 zone=MysticLake
+2025-08-04 21:18:23 [GAME] QUEST_START player_id=p6 quest_id=q877 name="Quest q877"
+2025-08-04 21:19:09 [GAME] ZONE_ENTER player_id=p4 zone=DarkCave
+2025-08-04 21:19:12 [GAME] PLAYER_RESPAWN player_id=p2 location=(91,116) hp=100
+2025-08-04 21:19:46 [GAME] ZONE_ENTER player_id=p2 zone=DarkCave
+2025-08-04 21:19:47 [GAME] ZONE_ENTER player_id=p2 zone=DarkCave
+2025-08-04 21:20:36 [GAME] PLAYER_RESPAWN player_id=p1 location=(150,72) hp=100
+2025-08-04 21:20:37 [GAME] SCORE player_id=p3 points=810 reason=defeated_monster
+2025-08-04 21:20:48 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=LichQueen hp=5923
+2025-08-04 21:21:29 [GAME] QUEST_START player_id=p3 quest_id=q871 name="Quest q871"
+2025-08-04 21:21:55 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p4 xp=4533 gold=359
+2025-08-04 21:22:07 [INFO] PLAYER_JOIN id=p1 name=Alice level=6 zone=GreenFields
+2025-08-04 21:23:07 [GAME] SCORE player_id=p3 points=954 reason=defeated_monster
+2025-08-04 21:23:09 [GAME] ITEM_PICKUP player_id=p1 item=dragon_scale qty=1 location=(183,102)
+2025-08-04 21:23:57 [GAME] PLAYER_RESPAWN player_id=p2 location=(54,51) hp=100
+2025-08-04 21:24:38 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=GolemKing damage=745
+2025-08-04 21:25:50 [GAME] QUEST_COMPLETE player_id=p5 quest_id=q688 xp=160 gold=146
+2025-08-04 21:26:02 [COMBAT] BOSS_DEFEAT boss_name=LichQueen defeated_by=p4 xp=1181 gold=600
+2025-08-04 21:26:26 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=ShadowDragon hp=4342
+2025-08-04 21:27:51 [GAME] ZONE_EXIT player_id=p4 zone=GreenFields
+2025-08-04 21:28:45 [COMBAT] DEATH victim_id=p4 killer_id=p2 method=sword
+2025-08-04 21:29:23 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=ShadowDragon damage=468
+2025-08-04 21:29:28 [INFO] PLAYER_JOIN id=p4 name=Diana level=30 zone=MysticLake
+2025-08-04 21:29:55 [GAME] PLAYER_RESPAWN player_id=p6 location=(180,177) hp=100
+2025-08-04 21:31:52 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=LichQueen damage=191
+2025-08-04 21:32:35 [GAME] PLAYER_RESPAWN player_id=p5 location=(147,154) hp=100
+2025-08-04 21:32:53 [GAME] ZONE_ENTER player_id=p3 zone=DarkCave
+2025-08-04 21:33:44 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=ShadowDragon hp=5583
+2025-08-04 21:33:54 [COMBAT] DEATH victim_id=p5 killer_id=p1 method=sword
+2025-08-04 21:34:21 [GAME] QUEST_START player_id=p3 quest_id=q325 name="Quest q325"
+2025-08-04 21:34:51 [COMBAT] BOSS_FIGHT_START player_id=p3 boss_name=GolemKing hp=3841
+2025-08-04 21:36:15 [COMBAT] DEATH victim_id=p2 killer_id=p6 method=sword
+2025-08-04 21:36:37 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=ShadowDragon hp=6197
+2025-08-04 21:37:03 [COMBAT] DEATH victim_id=p1 killer_id=p6 method=sword
+2025-08-04 21:37:23 [INFO] PLAYER_JOIN id=p2 name=Bob level=48 zone=DarkCave
+2025-08-04 21:37:51 [COMBAT] BOSS_DAMAGE player_id=p3 boss_name=LichQueen damage=267
+2025-08-04 21:37:59 [COMBAT] BOSS_DEFEAT boss_name=GolemKing defeated_by=p6 xp=4428 gold=609
+2025-08-04 21:38:55 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=LichQueen damage=766
+2025-08-04 21:39:05 [GAME] ZONE_EXIT player_id=p6 zone=MysticLake
+2025-08-04 21:39:31 [GAME] PLAYER_RESPAWN player_id=p5 location=(160,50) hp=100
+2025-08-04 21:39:43 [GAME] SCORE player_id=p5 points=189 reason=defeated_monster
+2025-08-04 21:40:39 [GAME] ZONE_EXIT player_id=p3 zone=GreenFields
+2025-08-04 21:41:15 [GAME] PLAYER_RESPAWN player_id=p3 location=(54,89) hp=100
+2025-08-04 21:41:32 [GAME] QUEST_COMPLETE player_id=p5 quest_id=q103 xp=920 gold=228
+2025-08-04 21:41:49 [COMBAT] DEATH victim_id=p2 killer_id=p4 method=sword
+2025-08-04 21:42:18 [GAME] QUEST_COMPLETE player_id=p5 quest_id=q190 xp=796 gold=87
+2025-08-04 21:43:01 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=LichQueen damage=749
+2025-08-04 21:43:25 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=LichQueen hp=5794
+2025-08-04 21:43:32 [COMBAT] DEATH victim_id=p6 killer_id=p2 method=sword
+2025-08-04 21:43:47 [COMBAT] BOSS_DAMAGE player_id=p6 boss_name=LichQueen damage=582
+2025-08-04 21:44:26 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q947 xp=349 gold=21
+2025-08-04 21:44:42 [INFO] PLAYER_JOIN id=p6 name=Frank level=6 zone=AncientRuins
+2025-08-04 21:44:51 [COMBAT] DEATH victim_id=p4 killer_id=p6 method=sword
+2025-08-04 21:45:25 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q913 xp=542 gold=131
+2025-08-04 21:46:06 [COMBAT] BOSS_DAMAGE player_id=p4 boss_name=ShadowDragon damage=311
+2025-08-04 21:46:32 [GAME] ZONE_ENTER player_id=p5 zone=MysticLake
+2025-08-04 21:46:44 [GAME] ZONE_EXIT player_id=p4 zone=DarkCave
+2025-08-04 21:47:47 [COMBAT] BOSS_DAMAGE player_id=p5 boss_name=LichQueen damage=308
+2025-08-04 21:47:54 [GAME] ITEM_PICKUP player_id=p2 item=gold_coin qty=2 location=(68,100)
+2025-08-04 21:48:48 [GAME] SCORE player_id=p5 points=432 reason=defeated_monster
+2025-08-04 21:49:53 [COMBAT] DEATH victim_id=p1 killer_id=p4 method=sword
+2025-08-04 21:50:36 [GAME] QUEST_START player_id=p6 quest_id=q389 name="Quest q389"
+2025-08-04 21:51:02 [COMBAT] BOSS_DAMAGE player_id=p1 boss_name=LichQueen damage=265
+2025-08-04 21:51:07 [COMBAT] BOSS_DAMAGE player_id=p2 boss_name=LichQueen damage=368
+2025-08-04 21:51:38 [GAME] PLAYER_RESPAWN player_id=p1 location=(54,121) hp=100
+2025-08-04 21:52:20 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=GolemKing hp=6382
+2025-08-04 21:52:55 [COMBAT] DEATH victim_id=p1 killer_id=p5 method=sword
+2025-08-04 21:53:03 [GAME] QUEST_START player_id=p1 quest_id=q969 name="Quest q969"
+2025-08-04 21:53:44 [INFO] PLAYER_JOIN id=p6 name=Frank level=13 zone=GreenFields
+2025-08-04 21:54:43 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q220 xp=325 gold=57
+2025-08-04 21:55:09 [GAME] PLAYER_RESPAWN player_id=p4 location=(72,86) hp=100
+2025-08-04 21:56:01 [INFO] PLAYER_JOIN id=p2 name=Bob level=23 zone=GreenFields
+2025-08-04 21:56:30 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q197 xp=609 gold=54
+2025-08-04 21:57:59 [COMBAT] BOSS_FIGHT_START player_id=p6 boss_name=LichQueen hp=5623
+2025-08-04 21:58:27 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=LichQueen hp=7257
+2025-08-04 21:58:48 [COMBAT] DEATH victim_id=p1 killer_id=p3 method=sword
+2025-08-04 21:59:01 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=GolemKing hp=7401
+2025-08-04 21:59:08 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q758 xp=177 gold=100
+2025-08-04 21:59:31 [GAME] QUEST_START player_id=p5 quest_id=q573 name="Quest q573"
+2025-08-04 22:00:29 [COMBAT] DEATH victim_id=p4 killer_id=p2 method=sword
+2025-08-04 22:01:27 [GAME] QUEST_START player_id=p4 quest_id=q187 name="Quest q187"
+2025-08-04 22:01:32 [GAME] SCORE player_id=p1 points=320 reason=defeated_monster
+2025-08-04 22:02:35 [COMBAT] DEATH victim_id=p3 killer_id=p2 method=sword
+2025-08-04 22:02:40 [COMBAT] DEATH victim_id=p6 killer_id=p1 method=sword
+2025-08-04 22:03:45 [INFO] PLAYER_JOIN id=p3 name=Charlie level=10 zone=MysticLake
+2025-08-04 22:04:13 [COMBAT] BOSS_FIGHT_START player_id=p2 boss_name=ShadowDragon hp=3536
+2025-08-04 22:04:19 [INFO] PLAYER_JOIN id=p3 name=Charlie level=11 zone=GreenFields
+2025-08-04 22:04:33 [GAME] PLAYER_RESPAWN player_id=p1 location=(53,98) hp=100
+2025-08-04 22:04:48 [COMBAT] DEATH victim_id=p2 killer_id=p1 method=sword
+2025-08-04 22:06:04 [COMBAT] BOSS_FIGHT_START player_id=p1 boss_name=ShadowDragon hp=4682
+2025-08-04 22:06:20 [GAME] ZONE_ENTER player_id=p5 zone=AncientRuins
+2025-08-04 22:06:34 [GAME] ITEM_PICKUP player_id=p2 item=mana_potion qty=10 location=(114,191)
+2025-08-04 22:07:02 [GAME] QUEST_START player_id=p6 quest_id=q315 name="Quest q315"
+2025-08-04 22:08:12 [GAME] QUEST_START player_id=p6 quest_id=q468 name="Quest q468"
+2025-08-04 22:08:40 [COMBAT] DEATH victim_id=p2 killer_id=p5 method=sword
+2025-08-04 22:08:43 [GAME] ZONE_ENTER player_id=p5 zone=MysticLake
+2025-08-04 22:09:12 [GAME] PLAYER_RESPAWN player_id=p3 location=(116,100) hp=100
+2025-08-04 22:09:51 [COMBAT] DEATH victim_id=p4 killer_id=p5 method=sword
+2025-08-04 22:10:44 [GAME] QUEST_START player_id=p5 quest_id=q702 name="Quest q702"
+2025-08-04 22:11:05 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=GolemKing hp=3979
+2025-08-04 22:11:14 [GAME] ZONE_ENTER player_id=p5 zone=DarkCave
+2025-08-04 22:11:28 [COMBAT] BOSS_FIGHT_START player_id=p5 boss_name=ShadowDragon hp=4158
+2025-08-04 22:12:07 [GAME] ZONE_ENTER player_id=p6 zone=GreenFields
+2025-08-04 22:12:10 [GAME] PLAYER_RESPAWN player_id=p4 location=(163,85) hp=100
+2025-08-04 22:12:15 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q904 xp=810 gold=253
+2025-08-04 22:16:36 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q372 xp=542 gold=176
+2025-08-04 22:16:52 [GAME] PLAYER_RESPAWN player_id=p1 location=(170,188) hp=100
+2025-08-04 22:17:12 [GAME] PLAYER_RESPAWN player_id=p1 location=(127,152) hp=100
+2025-08-04 22:19:32 [GAME] ZONE_EXIT player_id=p4 zone=MysticLake
+2025-08-04 22:20:56 [INFO] PLAYER_JOIN id=p4 name=Diana level=9 zone=MysticLake
+2025-08-04 22:21:59 [GAME] ITEM_PICKUP player_id=p1 item=gold_coin qty=1 location=(160,58)
+2025-08-04 22:22:54 [GAME] ZONE_ENTER player_id=p1 zone=GreenFields
+2025-08-04 22:23:36 [GAME] SCORE player_id=p5 points=179 reason=defeated_monster
+2025-08-04 22:24:19 [GAME] PLAYER_RESPAWN player_id=p2 location=(74,65) hp=100
+2025-08-04 22:24:28 [GAME] QUEST_START player_id=p3 quest_id=q612 name="Quest q612"
+2025-08-04 22:24:52 [GAME] SCORE player_id=p5 points=353 reason=defeated_monster
+2025-08-04 22:26:09 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q746 xp=440 gold=297
+2025-08-04 22:26:36 [GAME] ITEM_PICKUP player_id=p1 item=gold_coin qty=1 location=(197,153)
+2025-08-04 22:29:39 [GAME] SCORE player_id=p3 points=863 reason=defeated_monster
+2025-08-04 22:30:44 [INFO] PLAYER_JOIN id=p6 name=Frank level=13 zone=DarkCave
+2025-08-04 22:31:07 [INFO] PLAYER_JOIN id=p6 name=Frank level=21 zone=DarkCave
+2025-08-04 22:32:04 [GAME] SCORE player_id=p3 points=282 reason=defeated_monster
+2025-08-04 22:33:30 [GAME] PLAYER_RESPAWN player_id=p6 location=(80,172) hp=100
+2025-08-04 22:33:39 [INFO] PLAYER_JOIN id=p1 name=Alice level=47 zone=MysticLake
+2025-08-04 22:36:32 [GAME] SCORE player_id=p1 points=390 reason=defeated_monster
+2025-08-04 22:37:04 [GAME] ZONE_ENTER player_id=p6 zone=MysticLake
+2025-08-04 22:39:23 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q714 xp=865 gold=214
+2025-08-04 22:39:36 [GAME] SCORE player_id=p6 points=75 reason=defeated_monster
+2025-08-04 22:40:05 [GAME] QUEST_START player_id=p6 quest_id=q405 name="Quest q405"
+2025-08-04 22:40:20 [GAME] ZONE_EXIT player_id=p2 zone=GreenFields
+2025-08-04 22:44:07 [INFO] PLAYER_JOIN id=p1 name=Alice level=50 zone=AncientRuins
+2025-08-04 22:44:31 [GAME] ZONE_ENTER player_id=p4 zone=AncientRuins
+2025-08-04 22:45:06 [GAME] PLAYER_RESPAWN player_id=p2 location=(168,135) hp=100
+2025-08-04 22:46:03 [GAME] SCORE player_id=p3 points=616 reason=defeated_monster
+2025-08-04 22:47:20 [GAME] SCORE player_id=p6 points=171 reason=defeated_monster
+2025-08-04 22:48:37 [GAME] ZONE_ENTER player_id=p4 zone=DarkCave
+2025-08-04 22:50:10 [GAME] QUEST_START player_id=p5 quest_id=q330 name="Quest q330"
+2025-08-04 22:51:16 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q140 xp=878 gold=227
+2025-08-04 22:51:48 [GAME] ZONE_ENTER player_id=p4 zone=GreenFields
+2025-08-04 22:52:21 [INFO] PLAYER_JOIN id=p2 name=Bob level=8 zone=AncientRuins
+2025-08-04 22:54:07 [GAME] SCORE player_id=p3 points=148 reason=defeated_monster
+2025-08-04 22:55:21 [GAME] SCORE player_id=p1 points=149 reason=defeated_monster
+2025-08-04 22:55:28 [GAME] PLAYER_RESPAWN player_id=p5 location=(109,55) hp=100
+2025-08-04 22:57:19 [GAME] ZONE_ENTER player_id=p1 zone=GreenFields
+2025-08-04 22:57:52 [INFO] PLAYER_JOIN id=p1 name=Alice level=49 zone=GreenFields
+2025-08-04 22:58:26 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q763 xp=912 gold=75
+2025-08-04 22:59:53 [GAME] ITEM_PICKUP player_id=p3 item=mana_potion qty=7 location=(123,169)
+2025-08-04 23:02:47 [GAME] ZONE_ENTER player_id=p2 zone=MysticLake
+2025-08-04 23:04:06 [INFO] PLAYER_JOIN id=p3 name=Charlie level=50 zone=AncientRuins
+2025-08-04 23:04:39 [GAME] ZONE_ENTER player_id=p4 zone=AncientRuins
+2025-08-04 23:07:39 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q702 xp=554 gold=78
+2025-08-04 23:07:42 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q677 xp=753 gold=139
+2025-08-04 23:08:13 [INFO] PLAYER_JOIN id=p3 name=Charlie level=1 zone=AncientRuins
+2025-08-04 23:08:22 [GAME] QUEST_START player_id=p4 quest_id=q183 name="Quest q183"
+2025-08-04 23:12:16 [GAME] ITEM_PICKUP player_id=p6 item=health_potion qty=10 location=(162,182)
+2025-08-04 23:12:43 [INFO] PLAYER_JOIN id=p1 name=Alice level=17 zone=MysticLake
+2025-08-04 23:14:06 [GAME] ZONE_ENTER player_id=p6 zone=DarkCave
+2025-08-04 23:15:04 [GAME] SCORE player_id=p4 points=71 reason=defeated_monster
+2025-08-04 23:16:24 [GAME] QUEST_START player_id=p2 quest_id=q700 name="Quest q700"
+2025-08-04 23:17:05 [GAME] SCORE player_id=p1 points=604 reason=defeated_monster
+2025-08-04 23:18:51 [GAME] ZONE_EXIT player_id=p2 zone=DarkCave
+2025-08-04 23:22:22 [GAME] QUEST_START player_id=p2 quest_id=q103 name="Quest q103"
+2025-08-04 23:25:01 [GAME] ZONE_EXIT player_id=p3 zone=DarkCave
+2025-08-04 23:26:30 [GAME] ITEM_PICKUP player_id=p2 item=mana_potion qty=3 location=(118,50)
+2025-08-04 23:27:51 [GAME] ZONE_ENTER player_id=p5 zone=DarkCave
+2025-08-04 23:31:53 [GAME] QUEST_COMPLETE player_id=p5 quest_id=q279 xp=238 gold=162
+2025-08-04 23:34:08 [INFO] PLAYER_JOIN id=p6 name=Frank level=8 zone=GreenFields
+2025-08-04 23:34:49 [INFO] PLAYER_JOIN id=p6 name=Frank level=45 zone=AncientRuins
+2025-08-04 23:35:34 [GAME] PLAYER_RESPAWN player_id=p1 location=(50,64) hp=100
+2025-08-04 23:36:04 [GAME] SCORE player_id=p1 points=896 reason=defeated_monster
+2025-08-04 23:36:33 [GAME] PLAYER_RESPAWN player_id=p3 location=(173,138) hp=100
+2025-08-04 23:36:34 [GAME] PLAYER_RESPAWN player_id=p6 location=(85,62) hp=100
+2025-08-04 23:36:55 [GAME] ITEM_PICKUP player_id=p5 item=gold_coin qty=5 location=(95,175)
+2025-08-04 23:39:00 [GAME] QUEST_START player_id=p1 quest_id=q563 name="Quest q563"
+2025-08-04 23:39:29 [GAME] ITEM_PICKUP player_id=p2 item=gold_coin qty=5 location=(100,116)
+2025-08-04 23:40:53 [GAME] SCORE player_id=p6 points=107 reason=defeated_monster
+2025-08-04 23:42:12 [INFO] PLAYER_JOIN id=p1 name=Alice level=39 zone=GreenFields
+2025-08-04 23:43:58 [GAME] ZONE_ENTER player_id=p5 zone=DarkCave
+2025-08-04 23:45:51 [GAME] QUEST_START player_id=p5 quest_id=q480 name="Quest q480"
+2025-08-04 23:46:40 [GAME] ZONE_ENTER player_id=p3 zone=DarkCave
+2025-08-04 23:50:47 [INFO] PLAYER_JOIN id=p2 name=Bob level=46 zone=GreenFields
+2025-08-04 23:52:20 [GAME] ITEM_PICKUP player_id=p1 item=gold_coin qty=3 location=(165,64)
+2025-08-04 23:55:28 [GAME] PLAYER_RESPAWN player_id=p6 location=(176,149) hp=100
+2025-08-04 23:56:52 [GAME] PLAYER_RESPAWN player_id=p5 location=(192,158) hp=100
+2025-08-04 23:57:21 [GAME] ITEM_PICKUP player_id=p1 item=ancient_scroll qty=8 location=(171,139)
+2025-08-04 23:58:01 [GAME] ZONE_EXIT player_id=p3 zone=MysticLake
+2025-08-04 23:58:41 [GAME] ZONE_EXIT player_id=p4 zone=GreenFields
+2025-08-04 23:58:45 [GAME] ITEM_PICKUP player_id=p1 item=dragon_scale qty=2 location=(167,120)
+2025-08-05 00:00:13 [GAME] ZONE_ENTER player_id=p3 zone=MysticLake
+2025-08-05 00:01:02 [GAME] ZONE_EXIT player_id=p5 zone=GreenFields
+2025-08-05 00:01:32 [GAME] SCORE player_id=p5 points=641 reason=defeated_monster
+2025-08-05 00:02:25 [GAME] ZONE_ENTER player_id=p3 zone=DarkCave
+2025-08-05 00:02:38 [GAME] SCORE player_id=p1 points=106 reason=defeated_monster
+2025-08-05 00:03:47 [GAME] PLAYER_RESPAWN player_id=p1 location=(126,196) hp=100
+2025-08-05 00:04:58 [GAME] ZONE_EXIT player_id=p6 zone=DarkCave
+2025-08-05 00:05:17 [GAME] ZONE_EXIT player_id=p4 zone=GreenFields
+2025-08-05 00:06:10 [GAME] ZONE_ENTER player_id=p4 zone=DarkCave
+2025-08-05 00:07:08 [GAME] QUEST_START player_id=p2 quest_id=q952 name="Quest q952"
+2025-08-05 00:07:09 [GAME] ITEM_PICKUP player_id=p5 item=mana_potion qty=8 location=(116,190)
+2025-08-05 00:08:27 [INFO] PLAYER_JOIN id=p5 name=Eve level=22 zone=DarkCave
+2025-08-05 00:09:08 [GAME] PLAYER_RESPAWN player_id=p4 location=(107,135) hp=100
+2025-08-05 00:09:46 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q757 xp=980 gold=232
+2025-08-05 00:10:25 [GAME] ZONE_EXIT player_id=p1 zone=AncientRuins
+2025-08-05 00:11:00 [GAME] ZONE_EXIT player_id=p4 zone=DarkCave
+2025-08-05 00:13:58 [INFO] PLAYER_JOIN id=p2 name=Bob level=17 zone=DarkCave
+2025-08-05 00:14:29 [GAME] QUEST_START player_id=p6 quest_id=q455 name="Quest q455"
+2025-08-05 00:15:36 [GAME] ZONE_EXIT player_id=p4 zone=AncientRuins
+2025-08-05 00:17:09 [GAME] ZONE_EXIT player_id=p1 zone=GreenFields
+2025-08-05 00:17:41 [INFO] PLAYER_JOIN id=p2 name=Bob level=45 zone=DarkCave
+2025-08-05 00:19:15 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q579 xp=936 gold=229
+2025-08-05 00:19:52 [GAME] SCORE player_id=p6 points=995 reason=defeated_monster
+2025-08-05 00:20:29 [GAME] ZONE_EXIT player_id=p3 zone=MysticLake
+2025-08-05 00:20:37 [GAME] ITEM_PICKUP player_id=p6 item=ancient_scroll qty=9 location=(167,172)
+2025-08-05 00:23:25 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q498 xp=264 gold=80
+2025-08-05 00:26:29 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q848 xp=394 gold=221
+2025-08-05 00:27:10 [GAME] ITEM_PICKUP player_id=p1 item=ancient_scroll qty=10 location=(118,137)
+2025-08-05 00:27:32 [GAME] QUEST_START player_id=p4 quest_id=q695 name="Quest q695"
+2025-08-05 00:30:16 [GAME] QUEST_START player_id=p4 quest_id=q221 name="Quest q221"
+2025-08-05 00:30:35 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q983 xp=460 gold=135
+2025-08-05 00:32:44 [GAME] ITEM_PICKUP player_id=p3 item=health_potion qty=10 location=(81,120)
+2025-08-05 00:32:54 [GAME] ZONE_EXIT player_id=p5 zone=AncientRuins
+2025-08-05 00:33:39 [GAME] ZONE_EXIT player_id=p6 zone=DarkCave
+2025-08-05 00:34:02 [GAME] ITEM_PICKUP player_id=p1 item=health_potion qty=8 location=(157,143)
+2025-08-05 00:36:09 [INFO] PLAYER_JOIN id=p4 name=Diana level=13 zone=MysticLake
+2025-08-05 00:36:24 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q243 xp=444 gold=123
+2025-08-05 00:37:24 [GAME] PLAYER_RESPAWN player_id=p1 location=(56,156) hp=100
+2025-08-05 00:38:39 [INFO] PLAYER_JOIN id=p4 name=Diana level=20 zone=DarkCave
+2025-08-05 00:41:26 [GAME] SCORE player_id=p6 points=669 reason=defeated_monster
+2025-08-05 00:41:48 [GAME] ITEM_PICKUP player_id=p2 item=gold_coin qty=2 location=(61,161)
+2025-08-05 00:43:24 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q726 xp=901 gold=124
+2025-08-05 00:43:48 [INFO] PLAYER_JOIN id=p3 name=Charlie level=44 zone=MysticLake
+2025-08-05 00:44:39 [GAME] ZONE_ENTER player_id=p4 zone=GreenFields
+2025-08-05 00:44:54 [GAME] QUEST_START player_id=p2 quest_id=q459 name="Quest q459"
+2025-08-05 00:45:25 [GAME] ITEM_PICKUP player_id=p3 item=mana_potion qty=1 location=(56,125)
+2025-08-05 00:45:35 [GAME] ITEM_PICKUP player_id=p3 item=gold_coin qty=5 location=(141,113)
+2025-08-05 00:47:45 [GAME] SCORE player_id=p5 points=447 reason=defeated_monster
+2025-08-05 00:47:54 [GAME] PLAYER_RESPAWN player_id=p2 location=(166,136) hp=100
+2025-08-05 00:50:26 [GAME] ZONE_ENTER player_id=p4 zone=AncientRuins
+2025-08-05 00:50:46 [GAME] SCORE player_id=p3 points=830 reason=defeated_monster
+2025-08-05 00:52:03 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q732 xp=190 gold=89
+2025-08-05 00:52:33 [GAME] SCORE player_id=p4 points=716 reason=defeated_monster
+2025-08-05 00:52:40 [GAME] SCORE player_id=p4 points=361 reason=defeated_monster
+2025-08-05 00:52:41 [GAME] PLAYER_RESPAWN player_id=p6 location=(135,175) hp=100
+2025-08-05 00:53:09 [GAME] ITEM_PICKUP player_id=p3 item=health_potion qty=6 location=(184,175)
+2025-08-05 00:55:22 [GAME] QUEST_START player_id=p3 quest_id=q884 name="Quest q884"
+2025-08-05 00:55:33 [GAME] QUEST_START player_id=p6 quest_id=q121 name="Quest q121"
+2025-08-05 01:00:05 [GAME] ZONE_EXIT player_id=p3 zone=DarkCave
+2025-08-05 01:00:57 [GAME] ZONE_ENTER player_id=p3 zone=DarkCave
+2025-08-05 01:02:18 [GAME] SCORE player_id=p6 points=378 reason=defeated_monster
+2025-08-05 01:03:10 [GAME] QUEST_START player_id=p6 quest_id=q684 name="Quest q684"
+2025-08-05 01:03:38 [GAME] ITEM_PICKUP player_id=p3 item=gold_coin qty=7 location=(194,159)
+2025-08-05 01:04:10 [GAME] SCORE player_id=p4 points=794 reason=defeated_monster
+2025-08-05 01:04:26 [GAME] ZONE_ENTER player_id=p5 zone=MysticLake
+2025-08-05 01:04:45 [INFO] PLAYER_JOIN id=p1 name=Alice level=1 zone=AncientRuins
+2025-08-05 01:06:05 [GAME] PLAYER_RESPAWN player_id=p6 location=(117,171) hp=100
+2025-08-05 01:07:45 [GAME] QUEST_START player_id=p1 quest_id=q159 name="Quest q159"
+2025-08-05 01:08:39 [GAME] ITEM_PICKUP player_id=p3 item=mana_potion qty=9 location=(91,121)
+2025-08-05 01:09:26 [INFO] PLAYER_JOIN id=p1 name=Alice level=10 zone=MysticLake
+2025-08-05 01:10:02 [GAME] SCORE player_id=p3 points=884 reason=defeated_monster
+2025-08-05 01:10:52 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q998 xp=473 gold=127
+2025-08-05 01:12:04 [GAME] SCORE player_id=p2 points=197 reason=defeated_monster
+2025-08-05 01:12:35 [GAME] PLAYER_RESPAWN player_id=p4 location=(189,150) hp=100
+2025-08-05 01:15:57 [INFO] PLAYER_JOIN id=p5 name=Eve level=16 zone=GreenFields
+2025-08-05 01:16:20 [GAME] ITEM_PICKUP player_id=p5 item=gold_coin qty=3 location=(148,59)
+2025-08-05 01:17:02 [GAME] QUEST_COMPLETE player_id=p5 quest_id=q119 xp=831 gold=36
+2025-08-05 01:18:38 [GAME] PLAYER_RESPAWN player_id=p6 location=(192,69) hp=100
+2025-08-05 01:20:38 [GAME] ZONE_EXIT player_id=p2 zone=MysticLake
+2025-08-05 01:21:07 [GAME] ZONE_EXIT player_id=p1 zone=MysticLake
+2025-08-05 01:21:21 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q843 xp=326 gold=132
+2025-08-05 01:22:29 [GAME] QUEST_START player_id=p6 quest_id=q410 name="Quest q410"
+2025-08-05 01:24:27 [GAME] SCORE player_id=p3 points=653 reason=defeated_monster
+2025-08-05 01:24:48 [INFO] PLAYER_JOIN id=p4 name=Diana level=2 zone=DarkCave
+2025-08-05 01:26:25 [INFO] PLAYER_JOIN id=p4 name=Diana level=3 zone=MysticLake
+2025-08-05 01:28:46 [INFO] PLAYER_JOIN id=p4 name=Diana level=46 zone=GreenFields
+2025-08-05 01:29:16 [GAME] QUEST_START player_id=p1 quest_id=q651 name="Quest q651"
+2025-08-05 01:30:16 [GAME] ITEM_PICKUP player_id=p2 item=iron_sword qty=4 location=(73,104)
+2025-08-05 01:33:36 [GAME] PLAYER_RESPAWN player_id=p4 location=(132,51) hp=100
+2025-08-05 01:34:08 [GAME] ZONE_EXIT player_id=p5 zone=DarkCave
+2025-08-05 01:38:28 [GAME] QUEST_START player_id=p5 quest_id=q859 name="Quest q859"
+2025-08-05 01:38:30 [GAME] SCORE player_id=p3 points=314 reason=defeated_monster
+2025-08-05 01:39:47 [GAME] ITEM_PICKUP player_id=p6 item=health_potion qty=4 location=(119,190)
+2025-08-05 01:42:18 [GAME] PLAYER_RESPAWN player_id=p4 location=(171,78) hp=100
+2025-08-05 01:43:06 [GAME] ZONE_ENTER player_id=p4 zone=GreenFields
+2025-08-05 01:44:48 [INFO] PLAYER_JOIN id=p6 name=Frank level=29 zone=DarkCave
+2025-08-05 01:47:42 [GAME] PLAYER_RESPAWN player_id=p5 location=(124,196) hp=100
+2025-08-05 01:47:53 [GAME] QUEST_START player_id=p4 quest_id=q239 name="Quest q239"
+2025-08-05 01:48:08 [GAME] ITEM_PICKUP player_id=p2 item=dragon_scale qty=10 location=(199,84)
+2025-08-05 01:48:34 [GAME] QUEST_START player_id=p3 quest_id=q155 name="Quest q155"
+2025-08-05 01:48:49 [GAME] ZONE_ENTER player_id=p5 zone=AncientRuins
+2025-08-05 01:48:52 [GAME] ZONE_ENTER player_id=p2 zone=GreenFields
+2025-08-05 01:48:56 [GAME] PLAYER_RESPAWN player_id=p6 location=(169,85) hp=100
+2025-08-05 01:50:01 [GAME] ZONE_ENTER player_id=p2 zone=GreenFields
+2025-08-05 01:50:07 [GAME] SCORE player_id=p1 points=883 reason=defeated_monster
+2025-08-05 01:50:09 [GAME] ZONE_ENTER player_id=p3 zone=DarkCave
+2025-08-05 01:51:42 [GAME] ZONE_EXIT player_id=p2 zone=DarkCave
+2025-08-05 01:53:26 [INFO] PLAYER_JOIN id=p5 name=Eve level=46 zone=MysticLake
+2025-08-05 01:56:14 [GAME] PLAYER_RESPAWN player_id=p4 location=(200,158) hp=100
+2025-08-05 01:57:29 [GAME] SCORE player_id=p4 points=672 reason=defeated_monster
+2025-08-05 01:59:11 [GAME] SCORE player_id=p6 points=769 reason=defeated_monster
+2025-08-05 02:00:32 [GAME] QUEST_START player_id=p3 quest_id=q344 name="Quest q344"
+2025-08-05 02:01:08 [GAME] QUEST_START player_id=p1 quest_id=q961 name="Quest q961"
+2025-08-05 02:01:19 [GAME] SCORE player_id=p5 points=168 reason=defeated_monster
+2025-08-05 02:02:38 [GAME] ZONE_EXIT player_id=p6 zone=GreenFields
+2025-08-05 02:03:41 [GAME] PLAYER_RESPAWN player_id=p1 location=(129,133) hp=100
+2025-08-05 02:03:53 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q184 xp=758 gold=166
+2025-08-05 02:04:01 [INFO] PLAYER_JOIN id=p5 name=Eve level=30 zone=MysticLake
+2025-08-05 02:04:21 [INFO] PLAYER_JOIN id=p6 name=Frank level=45 zone=AncientRuins
+2025-08-05 02:05:47 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q127 xp=944 gold=250
+2025-08-05 02:07:53 [GAME] SCORE player_id=p6 points=340 reason=defeated_monster
+2025-08-05 02:09:08 [GAME] ZONE_ENTER player_id=p1 zone=AncientRuins
+2025-08-05 02:11:02 [GAME] ZONE_EXIT player_id=p3 zone=DarkCave
+2025-08-05 02:12:39 [GAME] QUEST_START player_id=p5 quest_id=q319 name="Quest q319"
+2025-08-05 02:14:32 [GAME] ZONE_EXIT player_id=p2 zone=AncientRuins
+2025-08-05 02:14:44 [GAME] ITEM_PICKUP player_id=p5 item=health_potion qty=6 location=(58,92)
+2025-08-05 02:15:19 [GAME] PLAYER_RESPAWN player_id=p3 location=(64,156) hp=100
+2025-08-05 02:15:22 [GAME] QUEST_START player_id=p2 quest_id=q789 name="Quest q789"
+2025-08-05 02:16:21 [INFO] PLAYER_JOIN id=p4 name=Diana level=11 zone=MysticLake
+2025-08-05 02:16:42 [GAME] ZONE_EXIT player_id=p1 zone=DarkCave
+2025-08-05 02:18:13 [GAME] QUEST_START player_id=p2 quest_id=q236 name="Quest q236"
+2025-08-05 02:19:56 [GAME] ZONE_EXIT player_id=p3 zone=AncientRuins
+2025-08-05 02:20:48 [INFO] PLAYER_JOIN id=p3 name=Charlie level=22 zone=AncientRuins
+2025-08-05 02:21:11 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q521 xp=796 gold=233
+2025-08-05 02:23:54 [GAME] PLAYER_RESPAWN player_id=p5 location=(173,145) hp=100
+2025-08-05 02:25:30 [INFO] PLAYER_JOIN id=p1 name=Alice level=8 zone=GreenFields
+2025-08-05 02:26:33 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q470 xp=400 gold=193
+2025-08-05 02:26:53 [GAME] ZONE_EXIT player_id=p2 zone=MysticLake
+2025-08-05 02:27:40 [GAME] ZONE_EXIT player_id=p1 zone=MysticLake
+2025-08-05 02:28:34 [GAME] ZONE_EXIT player_id=p5 zone=AncientRuins
+2025-08-05 02:29:12 [GAME] SCORE player_id=p6 points=453 reason=defeated_monster
+2025-08-05 02:29:31 [GAME] ZONE_ENTER player_id=p4 zone=MysticLake
+2025-08-05 02:29:38 [GAME] ITEM_PICKUP player_id=p3 item=mana_potion qty=10 location=(155,199)
+2025-08-05 02:31:06 [INFO] PLAYER_JOIN id=p4 name=Diana level=6 zone=GreenFields
+2025-08-05 02:31:12 [GAME] ZONE_EXIT player_id=p4 zone=GreenFields
+2025-08-05 02:32:52 [GAME] ZONE_EXIT player_id=p1 zone=AncientRuins
+2025-08-05 02:34:29 [GAME] SCORE player_id=p3 points=962 reason=defeated_monster
+2025-08-05 02:35:12 [GAME] ZONE_EXIT player_id=p5 zone=MysticLake
+2025-08-05 02:36:19 [GAME] QUEST_START player_id=p3 quest_id=q422 name="Quest q422"
+2025-08-05 02:36:40 [GAME] QUEST_START player_id=p4 quest_id=q499 name="Quest q499"
+2025-08-05 02:37:42 [GAME] ZONE_EXIT player_id=p5 zone=GreenFields
+2025-08-05 02:39:17 [GAME] ZONE_EXIT player_id=p4 zone=GreenFields
+2025-08-05 02:43:09 [GAME] ZONE_EXIT player_id=p4 zone=DarkCave
+2025-08-05 02:43:18 [GAME] ZONE_EXIT player_id=p2 zone=GreenFields
+2025-08-05 02:44:28 [GAME] ZONE_EXIT player_id=p5 zone=MysticLake
+2025-08-05 02:45:20 [INFO] PLAYER_JOIN id=p1 name=Alice level=49 zone=AncientRuins
+2025-08-05 02:45:53 [GAME] ITEM_PICKUP player_id=p2 item=dragon_scale qty=2 location=(56,135)
+2025-08-05 02:46:18 [GAME] SCORE player_id=p5 points=598 reason=defeated_monster
+2025-08-05 02:47:41 [GAME] ZONE_EXIT player_id=p1 zone=GreenFields
+2025-08-05 02:50:33 [GAME] ITEM_PICKUP player_id=p2 item=ancient_scroll qty=4 location=(175,107)
+2025-08-05 02:51:33 [GAME] PLAYER_RESPAWN player_id=p3 location=(68,200) hp=100
+2025-08-05 02:56:32 [GAME] ZONE_EXIT player_id=p4 zone=MysticLake
+2025-08-05 02:57:31 [GAME] ZONE_ENTER player_id=p3 zone=DarkCave
+2025-08-05 03:00:18 [GAME] PLAYER_RESPAWN player_id=p3 location=(136,179) hp=100
+2025-08-05 03:00:41 [GAME] SCORE player_id=p6 points=599 reason=defeated_monster
+2025-08-05 03:01:45 [GAME] SCORE player_id=p5 points=165 reason=defeated_monster
+2025-08-05 03:02:18 [GAME] QUEST_START player_id=p3 quest_id=q602 name="Quest q602"
+2025-08-05 03:02:43 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q912 xp=290 gold=143
+2025-08-05 03:04:31 [GAME] ZONE_ENTER player_id=p3 zone=GreenFields
+2025-08-05 03:05:12 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q109 xp=909 gold=15
+2025-08-05 03:05:15 [GAME] SCORE player_id=p5 points=538 reason=defeated_monster
+2025-08-05 03:06:45 [GAME] ZONE_EXIT player_id=p5 zone=MysticLake
+2025-08-05 03:07:27 [GAME] QUEST_START player_id=p5 quest_id=q406 name="Quest q406"
+2025-08-05 03:07:40 [GAME] ZONE_ENTER player_id=p5 zone=AncientRuins
+2025-08-05 03:10:20 [GAME] SCORE player_id=p6 points=532 reason=defeated_monster
+2025-08-05 03:10:23 [GAME] PLAYER_RESPAWN player_id=p2 location=(106,136) hp=100
+2025-08-05 03:10:54 [GAME] PLAYER_RESPAWN player_id=p4 location=(106,151) hp=100
+2025-08-05 03:12:17 [GAME] ZONE_ENTER player_id=p6 zone=DarkCave
+2025-08-05 03:12:58 [GAME] ITEM_PICKUP player_id=p6 item=gold_coin qty=1 location=(200,115)
+2025-08-05 03:13:09 [GAME] SCORE player_id=p1 points=690 reason=defeated_monster
+2025-08-05 03:14:33 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q949 xp=886 gold=83
+2025-08-05 03:14:37 [GAME] PLAYER_RESPAWN player_id=p2 location=(130,55) hp=100
+2025-08-05 03:15:07 [GAME] ITEM_PICKUP player_id=p3 item=health_potion qty=6 location=(124,177)
+2025-08-05 03:15:33 [GAME] QUEST_START player_id=p2 quest_id=q874 name="Quest q874"
+2025-08-05 03:16:16 [GAME] QUEST_COMPLETE player_id=p2 quest_id=q699 xp=463 gold=161
+2025-08-05 03:16:45 [GAME] PLAYER_RESPAWN player_id=p6 location=(122,89) hp=100
+2025-08-05 03:17:01 [GAME] ITEM_PICKUP player_id=p1 item=dragon_scale qty=6 location=(114,85)
+2025-08-05 03:17:11 [GAME] QUEST_START player_id=p5 quest_id=q861 name="Quest q861"
+2025-08-05 03:17:28 [GAME] SCORE player_id=p6 points=201 reason=defeated_monster
+2025-08-05 03:18:07 [GAME] ITEM_PICKUP player_id=p6 item=ancient_scroll qty=3 location=(145,155)
+2025-08-05 03:18:23 [GAME] SCORE player_id=p3 points=551 reason=defeated_monster
+2025-08-05 03:19:10 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q878 xp=610 gold=209
+2025-08-05 03:20:18 [GAME] ZONE_ENTER player_id=p4 zone=AncientRuins
+2025-08-05 03:20:42 [GAME] PLAYER_RESPAWN player_id=p4 location=(188,170) hp=100
+2025-08-05 03:21:04 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q137 xp=930 gold=175
+2025-08-05 03:21:33 [GAME] QUEST_START player_id=p4 quest_id=q465 name="Quest q465"
+2025-08-05 03:22:27 [GAME] ITEM_PICKUP player_id=p6 item=mana_potion qty=4 location=(145,90)
+2025-08-05 03:24:27 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q442 xp=356 gold=33
+2025-08-05 03:24:53 [GAME] ITEM_PICKUP player_id=p4 item=health_potion qty=1 location=(54,109)
+2025-08-05 03:25:49 [GAME] PLAYER_RESPAWN player_id=p5 location=(149,76) hp=100
+2025-08-05 03:27:15 [GAME] ZONE_ENTER player_id=p5 zone=GreenFields
+2025-08-05 03:27:21 [GAME] SCORE player_id=p2 points=282 reason=defeated_monster
+2025-08-05 03:31:52 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q889 xp=539 gold=165
+2025-08-05 03:32:43 [GAME] ZONE_EXIT player_id=p2 zone=GreenFields
+2025-08-05 03:33:01 [GAME] ZONE_EXIT player_id=p5 zone=MysticLake
+2025-08-05 03:33:37 [GAME] PLAYER_RESPAWN player_id=p1 location=(50,83) hp=100
+2025-08-05 03:37:07 [GAME] SCORE player_id=p1 points=75 reason=defeated_monster
+2025-08-05 03:37:19 [GAME] PLAYER_RESPAWN player_id=p1 location=(172,54) hp=100
+2025-08-05 03:37:27 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q274 xp=313 gold=133
+2025-08-05 03:38:02 [GAME] QUEST_START player_id=p2 quest_id=q536 name="Quest q536"
+2025-08-05 03:38:29 [GAME] ITEM_PICKUP player_id=p4 item=health_potion qty=7 location=(86,97)
+2025-08-05 03:39:17 [GAME] QUEST_COMPLETE player_id=p6 quest_id=q441 xp=826 gold=28
+2025-08-05 03:40:51 [GAME] ITEM_PICKUP player_id=p1 item=iron_sword qty=9 location=(174,96)
+2025-08-05 03:41:21 [GAME] QUEST_START player_id=p4 quest_id=q856 name="Quest q856"
+2025-08-05 03:42:10 [GAME] SCORE player_id=p3 points=675 reason=defeated_monster
+2025-08-05 03:42:28 [GAME] ITEM_PICKUP player_id=p1 item=iron_sword qty=1 location=(92,74)
+2025-08-05 03:44:41 [GAME] ITEM_PICKUP player_id=p6 item=health_potion qty=9 location=(197,145)
+2025-08-05 03:45:04 [GAME] ZONE_EXIT player_id=p2 zone=MysticLake
+2025-08-05 03:47:21 [GAME] ZONE_EXIT player_id=p4 zone=MysticLake
+2025-08-05 03:48:11 [GAME] PLAYER_RESPAWN player_id=p4 location=(191,97) hp=100
+2025-08-05 03:53:03 [GAME] PLAYER_RESPAWN player_id=p1 location=(168,185) hp=100
+2025-08-05 03:53:46 [GAME] ITEM_PICKUP player_id=p5 item=health_potion qty=7 location=(65,74)
+2025-08-05 03:54:46 [GAME] ITEM_PICKUP player_id=p5 item=gold_coin qty=1 location=(191,194)
+2025-08-05 03:58:42 [GAME] ZONE_ENTER player_id=p5 zone=AncientRuins
+2025-08-05 04:03:12 [GAME] ITEM_PICKUP player_id=p4 item=mana_potion qty=5 location=(139,104)
+2025-08-05 04:04:15 [GAME] QUEST_START player_id=p1 quest_id=q622 name="Quest q622"
+2025-08-05 04:06:24 [GAME] PLAYER_RESPAWN player_id=p6 location=(154,95) hp=100
+2025-08-05 04:06:38 [GAME] QUEST_COMPLETE player_id=p3 quest_id=q893 xp=183 gold=221
+2025-08-05 04:10:02 [GAME] SCORE player_id=p3 points=573 reason=defeated_monster
+2025-08-05 04:11:16 [GAME] QUEST_START player_id=p4 quest_id=q918 name="Quest q918"
+2025-08-05 04:11:21 [GAME] ZONE_EXIT player_id=p4 zone=MysticLake
+2025-08-05 04:15:44 [GAME] ITEM_PICKUP player_id=p1 item=iron_sword qty=3 location=(52,54)
+2025-08-05 04:17:19 [GAME] QUEST_COMPLETE player_id=p1 quest_id=q928 xp=100 gold=73
+2025-08-05 04:17:24 [GAME] SCORE player_id=p4 points=152 reason=defeated_monster
+2025-08-05 04:17:31 [GAME] PLAYER_RESPAWN player_id=p4 location=(189,138) hp=100
+2025-08-05 04:19:08 [GAME] QUEST_START player_id=p4 quest_id=q117 name="Quest q117"
+2025-08-05 04:19:11 [GAME] ITEM_PICKUP player_id=p5 item=dragon_scale qty=1 location=(89,180)
+2025-08-05 04:19:25 [GAME] SCORE player_id=p5 points=756 reason=defeated_monster
+2025-08-05 04:19:26 [GAME] ZONE_ENTER player_id=p2 zone=DarkCave
+2025-08-05 04:21:22 [GAME] QUEST_COMPLETE player_id=p5 quest_id=q230 xp=660 gold=105
+2025-08-05 04:21:45 [GAME] PLAYER_RESPAWN player_id=p3 location=(55,181) hp=100
+2025-08-05 04:22:11 [GAME] PLAYER_RESPAWN player_id=p2 location=(193,110) hp=100
+2025-08-05 04:23:14 [GAME] PLAYER_RESPAWN player_id=p4 location=(125,149) hp=100
+2025-08-05 04:23:35 [GAME] PLAYER_RESPAWN player_id=p2 location=(114,76) hp=100
+2025-08-05 04:24:21 [GAME] SCORE player_id=p6 points=286 reason=defeated_monster
+2025-08-05 04:25:54 [GAME] SCORE player_id=p6 points=342 reason=defeated_monster
+2025-08-05 04:27:03 [GAME] ZONE_ENTER player_id=p6 zone=DarkCave
+2025-08-05 04:29:04 [GAME] ZONE_EXIT player_id=p3 zone=MysticLake
+2025-08-05 04:29:36 [GAME] ZONE_EXIT player_id=p6 zone=DarkCave
+2025-08-05 04:31:24 [GAME] SCORE player_id=p1 points=59 reason=defeated_monster
+2025-08-05 04:31:25 [GAME] PLAYER_RESPAWN player_id=p6 location=(59,128) hp=100
+2025-08-05 04:32:00 [GAME] PLAYER_RESPAWN player_id=p4 location=(129,108) hp=100
+2025-08-05 04:35:55 [GAME] PLAYER_RESPAWN player_id=p1 location=(154,106) hp=100
+2025-08-05 04:36:20 [GAME] ZONE_EXIT player_id=p1 zone=AncientRuins
+2025-08-05 04:37:00 [GAME] SCORE player_id=p2 points=418 reason=defeated_monster
+2025-08-05 04:38:26 [GAME] PLAYER_RESPAWN player_id=p5 location=(113,84) hp=100
+2025-08-05 04:40:16 [GAME] ZONE_ENTER player_id=p3 zone=GreenFields
+2025-08-05 04:40:48 [GAME] SCORE player_id=p1 points=451 reason=defeated_monster
+2025-08-05 04:44:14 [GAME] ZONE_EXIT player_id=p1 zone=AncientRuins
+2025-08-05 04:45:26 [GAME] ZONE_ENTER player_id=p6 zone=MysticLake
+2025-08-05 04:45:57 [GAME] QUEST_COMPLETE player_id=p4 quest_id=q170 xp=590 gold=12
+2025-08-05 04:49:59 [GAME] SCORE player_id=p5 points=995 reason=defeated_monster
+2025-08-05 04:52:15 [GAME] ZONE_ENTER player_id=p6 zone=GreenFields
+2025-08-05 04:52:20 [GAME] ZONE_ENTER player_id=p3 zone=MysticLake
+2025-08-05 04:54:03 [GAME] ZONE_ENTER player_id=p4 zone=AncientRuins
+2025-08-05 04:56:11 [GAME] SCORE player_id=p6 points=625 reason=defeated_monster
+2025-08-05 05:04:40 [GAME] SCORE player_id=p5 points=135 reason=defeated_monster
+2025-08-05 05:05:58 [GAME] ZONE_ENTER player_id=p6 zone=AncientRuins
+2025-08-05 05:08:56 [GAME] ZONE_ENTER player_id=p2 zone=DarkCave
+2025-08-05 05:15:13 [GAME] SCORE player_id=p1 points=630 reason=defeated_monster
+2025-08-05 06:07:00 [GAME] ZONE_ENTER player_id=p1 zone=DarkCave
+2025-08-05 06:12:22 [GAME] ZONE_ENTER player_id=p6 zone=MysticLake
+2025-08-05 06:23:49 [GAME] ZONE_ENTER player_id=p6 zone=GreenFields
+2025-08-05 06:31:41 [GAME] ZONE_ENTER player_id=p1 zone=DarkCave
+2025-08-05 06:42:13 [GAME] ZONE_ENTER player_id=p1 zone=MysticLake
+2025-08-05 06:44:52 [GAME] ZONE_ENTER player_id=p5 zone=DarkCave
