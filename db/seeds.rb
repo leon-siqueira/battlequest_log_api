@@ -2,7 +2,7 @@ files = {
   1 => "1_event_of_each_kind.txt",
   2 => "10_events_of_each_kind.txt",
   3 => "100_events_of_each_kind.txt",
-  4 => "game_log_large.txt",
+  4 => "game_log_large.txt"
 }
 
 file = false
