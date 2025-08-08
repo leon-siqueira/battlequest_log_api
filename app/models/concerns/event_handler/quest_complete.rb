@@ -8,10 +8,10 @@ class EventHandler::QuestComplete < EventHandler::Base
     raise "Quest data not valid" unless quest.valid?
     raise "Player data not valid" unless player.valid?
 
-    quest.save! if quest.new_record?
+    quest.save!(validate: false) if quest.new_record?
     player.xp += @data["xp"].to_i
     player.gold += @data["gold"].to_i
-    player.save!
+    player.save!(validate: false)
 
     player_quest = PlayerQuest.find_or_initialize_by(player:, quest:)
     player_quest.update!(status: "completed")
