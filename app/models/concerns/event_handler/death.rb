@@ -12,7 +12,7 @@ class EventHandler::Death < EventHandler::Base
     raise "Killer data not valid" unless killer.valid?
     raise "Victim data not valid" unless victim.valid?
 
-    killer.save!
-    victim.save!
+    killer.save!(validate: false)
+    victim.save!(validate: false)
   end
 end

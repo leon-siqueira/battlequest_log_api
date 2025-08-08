@@ -7,8 +7,8 @@ class EventHandler::ItemPickup < EventHandler::Base
     raise "Item data not valid" unless item.valid?
     raise "Player data not valid" unless player.valid?
 
-    player.save! if player.new_record?
-    item.save! if item.new_record?
+    item.save!(validate: false) if item.new_record?
+    player.save!(validate: false) if player.new_record?
     PlayerItem.create!(player:, item:, quantity: @data["quantity"].to_i)
   end
 end
