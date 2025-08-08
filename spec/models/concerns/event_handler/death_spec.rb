@@ -33,5 +33,15 @@ RSpec.describe EventHandler::Death do
       expect(victim.deaths).to eq(1)
       expect(victim.hp).to eq(0)
     end
+
+    it "raises an error if killer data is invalid" do
+      data["killer_id"] = "invalid_format"
+      expect { described_class.call(data:) }.to raise_error("Killer data not valid")
+    end
+
+    it "raises an error if victim data is invalid" do
+      data["victim_id"] = "invalid_format"
+      expect { described_class.call(data:) }.to raise_error("Victim data not valid")
+    end
   end
 end
