@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get "items/top"
   resources :players, only: [ :index ]
   get "players/:id/stats", to: "players#stats", as: :stats
   get "leaderboard", to: "players#leaderboard", as: :leaderboard

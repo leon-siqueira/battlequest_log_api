@@ -10,7 +10,7 @@ json.kdr @player.kdr
 json.items_total @player.items_total_quantity
 json.inventory do
   json.array! @player.items do |item|
-    json.name item.name
+    json.name item.name.titleize
     json.quantity item.quantity
   end
 end
