@@ -9,6 +9,6 @@ class EventHandler::ItemPickup < EventHandler::Base
 
     item.save!(validate: false) if item.new_record?
     player.save!(validate: false) if player.new_record?
-    PlayerItem.create!(player:, item:, quantity: @data["quantity"].to_i)
+    PlayerItem.create!(player:, item:, quantity: @data["qty"].to_i)
   end
 end
