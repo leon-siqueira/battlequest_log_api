@@ -1,7 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe EventHandler::Score do
-  let(:data) { { "player_id" => "p3", "score" => 681, "reason" => "defeated_monster" } }
+  let(:data) { { "player_id" => "p3", "points" => 681, "reason" => "defeated_monster" } }
 
   describe "#run" do
     it "creates a new player if not exists with the score earned" do
@@ -20,7 +20,7 @@ RSpec.describe EventHandler::Score do
     end
 
     it "keeps the score as it was if those data are not valid on to_i" do
-      data["score"] = "invalid"
+      data["points"] = "invalid"
       described_class.call(data:)
 
       player = Player.find_by(logged_id: "p3")

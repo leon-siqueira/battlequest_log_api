@@ -1,7 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe EventHandler::ItemPickup do
-  let(:data) { { "player_id" => "p1", "item" => "health_potion", "quantity" => 2 } }
+  let(:data) { { "player_id" => "p1", "item" => "health_potion", "qty" => 2 } }
   describe "#run" do
     it "creates a player item record" do
       create(:player, logged_id: "p1")
