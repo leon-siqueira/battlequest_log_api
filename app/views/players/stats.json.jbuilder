@@ -7,10 +7,10 @@ json.hp @player.hp
 json.kills @player.kills
 json.deaths @player.deaths
 json.kdr @player.kdr
-json.total_items @player.total_quantity
+json.items_total @player.items_total_quantity
 json.inventory do
-  json.array! @items do |item|
-    json.name item['name']
-    json.quantity item['quantity']
+  json.array! @player.items do |item|
+    json.name item.name
+    json.quantity item.quantity
   end
 end
