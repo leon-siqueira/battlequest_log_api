@@ -3,6 +3,6 @@ class ItemsController < ApplicationController
   def top
     @items = Query::TopItems.call(filters: params.permit(:name, :lt, :lte, :gt, :gte, :eq),
                                   pagination: params.permit(:page, :per_page))
-    set_sql_meta(Item, @items, ->(params) { top_items_url(params) })
+    set_sql_meta(Item, @items, ->(params) { items_top_url(params) })
   end
 end
