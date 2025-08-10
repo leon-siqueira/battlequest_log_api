@@ -18,15 +18,15 @@ default: &default
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
-
+  username: <%= ENV.fetch("POSTGRES_USERNAME") { "postgres" } %>
+  password: <%= ENV.fetch("POSTGRES_PASSWORD") { "" } %>
+  host: <%= ENV.fetch("POSTGRES_HOST") { "localhost" } %>
+  port: <%= ENV.fetch("POSTGRES_PORT") { 5432 } %>
+  # The database name is set in each environment section below.
 
 development:
   <<: *default
   database: battlequest_log_api_development
-  username: postgres
-  password: postgres
-  host: localhost
-  port: 5432
   # The specified database role being used to connect to PostgreSQL.
   # To create additional roles in PostgreSQL see `$ createuser --help`.
   # When left blank, PostgreSQL will use the default role. This is
@@ -84,5 +84,3 @@ test:
 production:
   <<: *default
   database: battlequest_log_api_production
-  username: battlequest_log_api
-  password: <%= ENV["BATTLEQUEST_LOG_API_DATABASE_PASSWORD"] %>
