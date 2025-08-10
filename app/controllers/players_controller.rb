@@ -18,5 +18,4 @@ class PlayersController < ApplicationController
                                        pagination: params.permit(:page, :per_page))
     set_sql_meta(Player, @players, ->(params) { leaderboard_url(params) })
   end
-
 end
