@@ -1,6 +1,12 @@
 class PlayersController < ApplicationController
+  include HasMeta
   def index
     @players = Player.all
+
+    @players = Query::Players.call(filters: params.permit(:name, :min_level, :max_level, :min_score, :min_kills),
+                                   pagination: params.permit(:page, :per_page))
+
+    set_sql_meta(Player, @players, ->(params) { players_url(params) })
   end
 
   def stats
@@ -8,6 +14,8 @@ class PlayersController < ApplicationController
   end
 
   def leaderboard
-    @players = Player.order(score: :desc).limit(10)
+    @players = Query::Leaderboard.call(filters: params.permit(:name, :min_level, :max_level, :min_score, :min_kills),
+                                       pagination: params.permit(:page, :per_page))
+    set_sql_meta(Player, @players, ->(params) { leaderboard_url(params) })
   end
 end

@@ -88,12 +88,47 @@ The system processes game logs through a pipeline:
 ### Players
 
 - `GET /players` - List all players
+  - **Filters**:
+    - `name`: Filter by player name (partial match)
+    - `min_level`: Minimum player level
+    - `max_level`: Maximum player level
+    - `min_score`: Minimum player score
+    - `min_kills`: Minimum kills count
+  - **Pagination**:
+    - `page`: Page number (default: 1)
+    - `per_page`: Items per page (default: 5, max: 100)
 - `GET /players/:id/stats` - Get detailed stats for a player
 - `GET /leaderboard` - Get top players ranked by score
+  - **Filters**:
+    - `name`: Filter by player name (partial match)
+    - `min_level`: Minimum player level
+    - `max_level`: Maximum player level
+    - `min_score`: Minimum player score
+    - `min_kills`: Minimum kills count
+  - **Pagination**:
+    - `page`: Page number (default: 1)
+    - `per_page`: Items per page (default: 5, max: 100)
 
 ### Items
 
 - `GET /items/top` - List the top looted items
+  - **Filters**
+    - `name`: Filter by by item name (partial match)
+    - `gt`: Total quantity greater than X
+    - `gte`: Total quantity greater than or equal to X
+    - `lt`: Total quantity less than X
+    - `lte`: Total quantity less than or equal to X
+    - `eq`: Total quantity equal to X
+  - **Pagination**:
+    - `page`: Page number (default: 1)
+    - `per_page`: Items per page (default: 5, max: 100)
+
+### Events
+
+- `GET /events` - List the last logged events
+  - **Pagintaion**
+    - `page`: Page number (default: 1)
+    - `per_page`: Items per page (default: 25, max: 200)
 
 ## Testing
 
