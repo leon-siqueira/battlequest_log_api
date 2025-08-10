@@ -38,7 +38,7 @@ This API provides a backend for processing and analyzing game logs from the Batt
    docker compose build
    docker compose up
 
-   # If any permission denied error occur, try to run docker compose up --build
+   # If any permission denied error occur, try to run: sudo docker compose up --build
    ```
 
 4. The API will be available at [http://localhost:3000](http://localhost:3000)
