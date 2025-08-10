@@ -97,7 +97,11 @@ The system processes game logs through a pipeline:
   - **Pagination**:
     - `page`: Page number (default: 1)
     - `per_page`: Items per page (default: 5, max: 100)
+  - **Example**: `/players?name=dragon&min_level=20&page=2&per_page=10`
+
 - `GET /players/:id/stats` - Get detailed stats for a player
+  - **Example**: `/players/42/stats`
+
 - `GET /leaderboard` - Get top players ranked by score
   - **Filters**:
     - `name`: Filter by player name (partial match)
@@ -108,6 +112,7 @@ The system processes game logs through a pipeline:
   - **Pagination**:
     - `page`: Page number (default: 1)
     - `per_page`: Items per page (default: 5, max: 100)
+  - **Example**: `/leaderboard?min_level=30&min_kills=50&per_page=20`
 
 ### Items
 
@@ -122,6 +127,7 @@ The system processes game logs through a pipeline:
   - **Pagination**:
     - `page`: Page number (default: 1)
     - `per_page`: Items per page (default: 5, max: 100)
+  - **Example**: `/items/top?name=potion&gte=100&page=1&per_page=15`
 
 ### Events
 
@@ -129,6 +135,7 @@ The system processes game logs through a pipeline:
   - **Pagintaion**
     - `page`: Page number (default: 1)
     - `per_page`: Items per page (default: 25, max: 200)
+  - **Example**: `/events?page=3&per_page=50`
 
 ## Testing
 
