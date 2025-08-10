@@ -1,3 +1,4 @@
+return if ENV["AUTO_IMPORT_LOG_FILE"].to_i == 999
 files = {
   1 => "1_event_of_each_kind.txt",
   2 => "10_events_of_each_kind.txt",
