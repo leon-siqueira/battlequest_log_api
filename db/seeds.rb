@@ -5,7 +5,7 @@ files = {
   4 => "game_log_large.txt"
 }
 
-file = false
+file = false || (files[ENV["AUTO_IMPORT_LOG_FILE"].to_i] if ENV["AUTO_IMPORT_LOG_FILE"])
 
 while !file
   system "clear"
